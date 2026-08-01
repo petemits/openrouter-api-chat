@@ -1,0 +1,2895 @@
+{
+  "query": "nba",
+  "results": {
+    "query": "nba",
+    "totalResults": "600000000",
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "The official site of the NBA for the latest NBA Scores, Stats & News ...",
+        "htmlTitle": "The official site of the <b>NBA</b> for the latest <b>NBA</b> Scores, Stats &amp; News ...",
+        "link": "https://www.nba.com/",
+        "displayLink": "www.nba.com",
+        "snippet": "Follow the action on NBA scores, schedules, stats, news, teams, and players. Buy tickets or watch the games anywhere with NBA League Pass.",
+        "htmlSnippet": "Follow the action on <b>NBA</b> scores, schedules, stats, news, teams, and players. Buy tickets or watch the games anywhere with <b>NBA</b> League Pass.",
+        "formattedUrl": "https://www.nba.com/",
+        "htmlFormattedUrl": "https://www.<b>nba</b>.com/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR08VgMcNg8oJVHJ5unKjKglIsdFwH6SHykS0FAt6PWE4eSfiXk-MqIEmw&s",
+              "width": "259",
+              "height": "194"
+            }
+          ],
+          "metatags": [
+            {
+              "msapplication-tilecolor": "#da532c",
+              "og:image": "https://cdn.nba.com/next/fallback.jpg",
+              "next-head-count": "27",
+              "og:type": "website",
+              "twitter:card": "summary_large_image",
+              "twitter:site": "@NBA",
+              "og:site_name": "NBA",
+              "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no",
+              "og:title": "The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com",
+              "og:locale": "en_US",
+              "og:url": "https://www.nba.com",
+              "twitter:image": "https://cdn.nba.com/logos/nba/fallback/NBA.Com-National-Basketball-Association.png"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://cdn.nba.com/next/fallback.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "NBA (@nba) • Instagram photos and videos",
+        "htmlTitle": "<b>NBA</b> (@<b>nba</b>) • Instagram photos and videos",
+        "link": "https://www.instagram.com/nba/?hl=en",
+        "displayLink": "www.instagram.com",
+        "snippet": "91M followers · 1.3K+ following · 94179 posts · @nba: “The 2025-26 NBA season continues Tuesday on NBC and Peacock! 8:00PM/ET: CELTICS/SIXERS 8:00PM/PT: ...",
+        "htmlSnippet": "91M followers · 1.3K+ following · 94179 posts · @<b>nba</b>: “The 2025-26 <b>NBA</b> season continues Tuesday on NBC and Peacock! 8:00PM/ET: CELTICS/SIXERS 8:00PM/PT:&nbsp;...",
+        "formattedUrl": "https://www.instagram.com/nba/?hl=en",
+        "htmlFormattedUrl": "https://www.instagram.com/<b>nba</b>/?hl=en",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLm6PT5csFPHmHbGGkuBkXZbsXhXnsnvs-07HIXbQN4yze7ApmaF42ack&s",
+              "width": "194",
+              "height": "259"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/573723324_18594669004024487_6586715798966858473_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=C9gO8UdVMT0Q7kNvwEF7-my&_nc_oc=Adm3a3ShYoQfBwoJKyyAFDyysZ9i3vyRjJuQQ0QgYZ2EDGfOIaWVsmb6gyiVGtlm-RI&_nc_zt=24&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=3QVb9plEih9P8cu7n5mapA&oh=00_AfiPAmtc3pnGFbr91yUkfamY-0dVM59irrV-_Lj8Yd0oFA&oe=691A2AA1",
+              "theme-color": "#FFFFFF",
+              "og:type": "profile",
+              "al:ios:app_name": "Instagram",
+              "og:title": "NBA (@nba) • Instagram photos and videos",
+              "application-title": "Instagram",
+              "al:android:package": "com.instagram.android",
+              "bingbot": "noarchive",
+              "al:ios:url": "instagram://user?username=nba",
+              "color-scheme": "light",
+              "og:description": "91M Followers, 1,319 Following, 94K Posts - See Instagram photos and videos from NBA (@nba)",
+              "al:ios:app_store_id": "389801252",
+              "al:android:url": "https://instagram.com/_u/nba/",
+              "apple-mobile-web-app-status-bar-style": "default",
+              "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+              "mobile-web-app-capable": "yes",
+              "og:url": "https://www.instagram.com/nba/",
+              "al:android:app_name": "Instagram"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3744037312595561817"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "NBA Top Shot",
+        "htmlTitle": "<b>NBA</b> Top Shot",
+        "link": "https://nbatopshot.com/",
+        "displayLink": "nbatopshot.com",
+        "snippet": "OFFICIALLY LICENSED NBA COLLECTIBLES. Relive the Moments from your favorite players and teams. Collect iconic NBA highlights. Trade with NBA fans around the ...",
+        "htmlSnippet": "OFFICIALLY LICENSED <b>NBA</b> COLLECTIBLES. Relive the Moments from your favorite players and teams. Collect iconic <b>NBA</b> highlights. Trade with <b>NBA</b> fans around the&nbsp;...",
+        "formattedUrl": "https://nbatopshot.com/",
+        "htmlFormattedUrl": "https://<b>nba</b>topshot.com/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSKaaBF-tydoW5nsmV179Eu7WS0LavLFD6JFHkV8auHbo4RDW2HMKWD8M&s",
+              "width": "310",
+              "height": "163"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://assets.nbatopshot.com/static/open-graph-03-2025.jpeg",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "NBA Top Shot",
+              "og:type": "website",
+              "og:site_name": "NBA Top Shot",
+              "twitter:url": "https://nbatopshot.com",
+              "author": "Dapper Labs",
+              "csp-nonce": "b309564f-b715-4486-a0dd-bc16d5455c59",
+              "og:title": "NBA Top Shot",
+              "og:description": "OFFICIALLY LICENSED NBA COLLECTIBLES. Relive the Moments from your favorite players and teams. Collect iconic NBA highlights. Trade with NBA fans around the world.",
+              "twitter:image": "https://assets.nbatopshot.com/static/open-graph-03-2025.jpeg",
+              "facebook-domain-verification": "gl4jl5uohv7tlosgt5wcc3a5n6xhlw",
+              "next-head-count": "20",
+              "referrer": "strict-origin",
+              "twitter:site": "@nbatopshot",
+              "viewport": "width=device-width, height=device-height, initial-scale=1, maximum-scale=1",
+              "twitter:description": "OFFICIALLY LICENSED NBA COLLECTIBLES. Relive the Moments from your favorite players and teams. Collect iconic NBA highlights. Trade with NBA fans around the world.",
+              "og:url": "https://nbatopshot.com"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://assets.nbatopshot.com/static/open-graph-03-2025.jpeg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "NBA on ESPN - Scores, Stats and Highlights",
+        "htmlTitle": "<b>NBA</b> on ESPN - Scores, Stats and Highlights",
+        "link": "https://www.espn.com/nba/",
+        "displayLink": "www.espn.com",
+        "snippet": "Visit ESPN for NBA live scores, video highlights and latest news. Stream games on ESPN and play Fantasy Basketball.",
+        "htmlSnippet": "Visit ESPN for <b>NBA</b> live scores, video highlights and latest news. Stream games on ESPN and play Fantasy Basketball.",
+        "formattedUrl": "https://www.espn.com/nba/",
+        "htmlFormattedUrl": "https://www.espn.com/<b>nba</b>/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7wJ8NufFXY5qLxbk-oVb3OQtEHOUHIGYwgV_25cT-Qluq5Ab7plnMrHKC&s",
+              "width": "225",
+              "height": "225"
+            }
+          ],
+          "thumbnail": [
+            {
+              "src": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",
+              "width": "500",
+              "height": "500"
+            }
+          ],
+          "document": [
+            {
+              "title": "NBA on ESPN - Scores, Stats and Highlights"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png",
+              "twitter:app:id:googleplay": "com.espn.score_center",
+              "og:image:width": "500",
+              "og:type": "website",
+              "twitter:title": "NBA on ESPN - Scores, Stats and Highlights",
+              "twitter:card": "summary",
+              "og:site_name": "ESPN.com",
+              "twitter:url": "https://www.espn.com/nba/",
+              "og:title": "NBA on ESPN - Scores, Stats and Highlights",
+              "og:image:height": "500",
+              "twitter:app:name:googleplay": "ESPN",
+              "medium": "index",
+              "twitter:app:id:iphone": "317469184",
+              "title": "NBA on ESPN - Scores, Stats and Highlights",
+              "og:description": "Visit ESPN for NBA live scores, video highlights and latest news. Stream games on ESPN and play Fantasy Basketball.",
+              "referrer": "origin-when-cross-origin",
+              "fb:app_id": "116656161708917",
+              "twitter:site": "espn",
+              "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+              "twitter:description": "Visit ESPN for NBA live scores, video highlights and latest news. Stream games on ESPN and play Fantasy Basketball.",
+              "og:url": "https://www.espn.com/nba/",
+              "twitter:app:name:iphone": "ESPN"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png"
+            }
+          ],
+          "sitenavigationelement": [
+            {
+              "name": "NFL",
+              "url": "NFL"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "NBA",
+        "htmlTitle": "<b>NBA</b>",
+        "link": "https://www.reddit.com/r/nba/",
+        "displayLink": "www.reddit.com",
+        "snippet": "r/nba: A community for NBA discussion.",
+        "htmlSnippet": "r/<b>nba</b>: A community for <b>NBA</b> discussion.",
+        "formattedUrl": "https://www.reddit.com/r/nba/",
+        "htmlFormattedUrl": "https://www.reddit.com/r/<b>nba</b>/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtOjhfkgUKQbL3DZxe5F6OVsgeDNffleObjJ7n9RllKQTSsimax7VIaY&s",
+              "width": "192",
+              "height": "192"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
+              "theme-color": "#000000",
+              "og:image:width": "256",
+              "og:type": "website",
+              "twitter:card": "summary",
+              "twitter:title": "NBA",
+              "og:site_name": "Reddit",
+              "og:title": "NBA",
+              "og:image:height": "256",
+              "bingbot": "noarchive",
+              "msapplication-navbutton-color": "#000000",
+              "og:description": "A community for NBA discussion.",
+              "og:video:width": "1280",
+              "twitter:image": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
+              "apple-mobile-web-app-status-bar-style": "black",
+              "twitter:site": "@reddit",
+              "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+              "twitter:player:stream": "https://streamable.com/t/1gyrsw",
+              "apple-mobile-web-app-capable": "yes",
+              "og:video:height": "720",
+              "og:ttl": "600",
+              "og:url": "https://www.reddit.com/r/nba/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "NBA (@NBA) / Posts / X",
+        "htmlTitle": "<b>NBA</b> (@<b>NBA</b>) / Posts / X",
+        "link": "https://x.com/NBA",
+        "displayLink": "x.com",
+        "snippet": "Nikola Jokić drops a 35-point double-double on 16-19 shooting to power the @nuggets to their fifth win in a row! Jamal Murray ...",
+        "htmlSnippet": "Nikola Jokić drops a 35-point double-double on 16-19 shooting to power the @nuggets to their fifth win in a row! Jamal Murray&nbsp;...",
+        "formattedUrl": "https://x.com/NBA",
+        "htmlFormattedUrl": "https://x.com/<b>NBA</b>",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWTjdXbNKGhNWzjKD0OzJLhtwXuCqgpsVFcJeTUDlO2KdgmTSQWK-q3_Y&s",
+              "width": "225",
+              "height": "225"
+            }
+          ],
+          "website": [
+            {
+              "name": "X (formerly Twitter)",
+              "url": "https://x.com"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W_400x400.jpg",
+              "og:image:width": "400",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "X (formerly Twitter)",
+              "apple-mobile-web-app-title": "X",
+              "rating": "general",
+              "bingbot": "index, follow",
+              "language": "en",
+              "og:description": "NBA (@NBA) - Posts - The 2025-26 NBA season continues Wednesday on ESPN! 🏀 7:00pm/et: Magic/Knicks 🏀 9:30pm/et: Lakers/... | X (formerly Twitter)",
+              "twitter:creator": "@NBA",
+              "og:image:secure_url": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W_400x400.jpg",
+              "twitter:data1": "391744",
+              "twitterbot": "index, follow",
+              "twitter:data2": "2009",
+              "twitter:image:alt": "NBA profile picture",
+              "profile:first_name": "NBA",
+              "linkedinbot": "index, follow",
+              "content-language": "en",
+              "application-name": "X (formerly Twitter)",
+              "og:image:alt": "NBA profile picture",
+              "author": "NBA",
+              "mobileoptimized": "320",
+              "mobile-web-app-capable": "yes",
+              "og:locale": "en_US",
+              "format-detection": "telephone=no",
+              "apple-itunes-app": "app-id=333903271",
+              "theme-color": "#FFFFFF",
+              "twitter:label1": "Posts",
+              "twitter:label2": "Joined",
+              "og:image:type": "image/jpeg",
+              "title": "NBA (@NBA) / Posts / X",
+              "distribution": "global",
+              "twitter:image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W_400x400.jpg",
+              "twitter:site": "@x",
+              "facebookbot": "index, follow",
+              "msapplication-tilecolor": "#1DA1F2",
+              "og:type": "profile",
+              "twitter:title": "NBA (@NBA) / Posts / X",
+              "skype_toolbar": "skype_toolbar_parser_compatible",
+              "handheldfriendly": "true",
+              "profile:username": "NBA",
+              "og:title": "NBA (@NBA) / Posts / X",
+              "og:image:height": "400",
+              "apple-mobile-web-app-status-bar-style": "white",
+              "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+              "apple-mobile-web-app-capable": "yes",
+              "twitter:description": "NBA (@NBA) - Posts - The 2025-26 NBA season continues Wednesday on ESPN! 🏀 7:00pm/et: Magic/Knicks 🏀 9:30pm/et: Lakers/... | X (formerly Twitter)",
+              "og:url": "https://x.com/NBA",
+              "apple-touch-fullscreen": "yes"
+            }
+          ],
+          "videoobject": [
+            {
+              "duration": "PT3M3S",
+              "contenturl": "https://video.twimg.com/amplify_video/1988497574219665408/pl/S_xEs_ngkYM0nqhQ.m3u8?tag=21&v=a86",
+              "uploaddate": "2025-11-12T06:57:21.000Z",
+              "name": "NBA's Video on X",
+              "description": "Basketball game footage shows players in action on court wearing team uniforms including purple and gold for Nuggets and opposing team performing plays like dribbling passing shooting and reboundin...",
+              "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1988497574219665408/img/2UQVeQSUtl-0JHS_.jpg"
+            },
+            {
+              "duration": "PT0M9S",
+              "contenturl": "https://video.twimg.com/amplify_video/1988496029226799104/pl/wa5ClrSxrHadkl0C.m3u8?tag=21",
+              "uploaddate": "2025-11-12T06:37:23.000Z",
+              "name": "NBA's Video on X",
+              "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1988496029226799104/img/yF1U2565tzZ9kyTm.jpg"
+            },
+            {
+              "duration": "PT0M10S",
+              "contenturl": "https://video.twimg.com/amplify_video/1988495581874962432/pl/pNcEz-T0pC4ISXkP.m3u8?tag=21&v=cfc",
+              "uploaddate": "2025-11-12T06:35:21.000Z",
+              "name": "NBA's Video on X",
+              "description": "Basketball game footage shows Nikola Jokić driving to the basket for an and-1 layup while defended by Sacramento Kings players, followed by Tim Hardaway Jr. reacting with a humorous over-the-top...",
+              "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1988495581874962432/img/ye0mvJRY-kFVGAdy.jpg"
+            },
+            {
+              "duration": "PT0M12S",
+              "contenturl": "https://video.twimg.com/amplify_video/1988495050183946240/pl/ycOa4bpqAYM7eVxG.m3u8?tag=21&v=be4",
+              "uploaddate": "2025-11-12T06:33:24.000Z",
+              "name": "NBA's Video on X",
+              "description": "Nikola Jokic in purple Denver Nuggets jersey drives to the basket holding the ball, draws fouls from Sacramento Kings defenders in white and black jerseys, releases a mid-range jumper that...",
+              "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1988495050183946240/img/XTRV10T_7DzUi5q_.jpg"
+            },
+            {
+              "duration": "PT0M12S",
+              "contenturl": "https://video.twimg.com/amplify_video/1988495050183946240/pl/ycOa4bpqAYM7eVxG.m3u8?tag=21&v=be4",
+              "uploaddate": "2025-11-12T06:33:24.000Z",
+              "name": "NBA's Video on X",
+              "description": "Nikola Jokic in purple Denver Nuggets jersey drives to the basket holding the ball, draws fouls from Sacramento Kings defenders in white and black jerseys, releases a mid-range jumper that...",
+              "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1988495050183946240/img/XTRV10T_7DzUi5q_.jpg"
+            },
+            {
+              "duration": "PT0M12S",
+              "contenturl": "https://video.twimg.com/amplify_video/1988490093980774400/pl/vjfp08Fvkq2dzheV.m3u8?tag=21&v=ebe",
+              "uploaddate": "2025-11-12T06:13:53.000Z",
+              "name": "NBA's Video on X",
+              "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1988490093980774400/img/7yoQwdbZlbFpbLKB.jpg"
+            },
+            {
+              "duration": "PT2M0S",
+              "contenturl": "https://video.twimg.com/amplify_video/1988481869038428160/pl/H5BWDluN8AfiYmyO.m3u8?tag=21&v=4ac",
+              "uploaddate": "2025-11-12T06:02:58.000Z",
+              "name": "NBA's Video on X",
+              "description": "Basketball game footage at Delta Center shows players in action including Lauri Markkanen in Utah Jazz uniform making shots and plays against Indiana Pacers. Scoreboard displays Utah leading...",
+              "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1988481869038428160/img/9W9znQAIFFmFnhKX.jpg"
+            },
+            {
+              "duration": "PT0M13S",
+              "contenturl": "https://video.twimg.com/amplify_video/1988483939602694144/pl/6ZJn2ZkQw0wvRa4p.m3u8?tag=21&v=27a",
+              "uploaddate": "2025-11-12T05:52:04.000Z",
+              "name": "NBA's Video on X",
+              "description": "Basketball game footage on a purple court with white and black uniformed players including a player in white jersey number 15 dribbling and passing near the basket surrounded by opponents in...",
+              "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1988483939602694144/img/7pQXxEH4cY2hF7cx.jpg"
+            },
+            {
+              "duration": "PT0M7S",
+              "contenturl": "https://video.twimg.com/amplify_video/1988483051437887488/pl/EYYW8pqX9sZBeMNM.m3u8?tag=21",
+              "uploaddate": "2025-11-12T05:45:04.000Z",
+              "name": "NBA's Video on X",
+              "description": "Basketball players in Nuggets and Kings uniforms execute a fast break on a professional court with scoreboard showing 67 points for one team. A player in black and blue jersey outlets the ball...",
+              "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1988483051437887488/img/0Bw_LOCC6w56SQgq.jpg"
+            },
+            {
+              "duration": "PT0M9S",
+              "contenturl": "https://video.twimg.com/amplify_video/1988482026760966144/pl/S7j7OzzrbdZpPGBe.m3u8?tag=21",
+              "uploaddate": "2025-11-12T05:42:12.000Z",
+              "name": "NBA's Video on X",
+              "description": "Basketball game footage from an NBA match between Denver Nuggets and Sacramento Kings featuring Nikola Jokic in a white jersey passing the ball full-court to a teammate in purple who dunks...",
+              "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1988482026760966144/img/716L-3nOzxcMUM2o.jpg"
+            },
+            {
+              "duration": "PT0M9S",
+              "contenturl": "https://video.twimg.com/amplify_video/1988482026760966144/pl/S7j7OzzrbdZpPGBe.m3u8?tag=21",
+              "uploaddate": "2025-11-12T05:42:12.000Z",
+              "name": "NBA's Video on X",
+              "description": "Basketball game footage from an NBA match between Denver Nuggets and Sacramento Kings featuring Nikola Jokic in a white jersey passing the ball full-court to a teammate in purple who dunks...",
+              "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1988482026760966144/img/716L-3nOzxcMUM2o.jpg"
+            },
+            {
+              "duration": "PT1M29S",
+              "contenturl": "https://video.twimg.com/amplify_video/1988478354249428992/pl/QmPwgjzGu4kC_Eu1.m3u8?tag=21&v=4ee",
+              "uploaddate": "2025-11-12T05:34:11.000Z",
+              "name": "NBA's Video on X",
+              "description": "Basketball game footage at Madison Square Garden shows New York Knicks players including Jalen Brunson in blue jerseys competing against opponents in white and purple uniforms performing dunks...",
+              "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1988478354249428992/img/NNjVtoWoJtgQsc9u.jpg"
+            }
+          ],
+          "collection": [
+            {
+              "name": "Posts",
+              "about": "The 2025-26 NBA season continues Wednesday on ESPN! 🏀 7:00pm/et: Magic/Knicks 🏀 9:30pm/et: Lakers/Thunder",
+              "collectionsize": "19"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            }
+          ],
+          "propertyvaluespecification": [
+            {
+              "valuerequired": "true",
+              "valuename": "search_term_string"
+            }
+          ],
+          "socialmediaposting": [
+            {
+              "identifier": "1988432516710076852",
+              "commentcount": "260",
+              "articlebody": "2026 NBA ALL-STAR GAME TO FEATURE NEW U.S. VS. WORLD COMPETITION – Two U.S. Teams and One World Team in Round-Robin Tournament With Four 12-Minute Games – NEW YORK, Nov. 11, 2025 – The...",
+              "datecreated": "2025-11-12T02:23:49.000Z",
+              "position": "1",
+              "url": "https://x.com/NBA/status/1988432516710076852",
+              "datepublished": "2025-11-12T02:23:49.000Z"
+            },
+            {
+              "identifier": "1988592624887046321",
+              "commentcount": "36",
+              "articlebody": "Join us in wishing Paolo Banchero of the @OrlandoMagic a HAPPY 23rd BIRTHDAY!",
+              "datecreated": "2025-11-12T13:00:02.000Z",
+              "position": "2",
+              "url": "https://x.com/NBA/status/1988592624887046321",
+              "datepublished": "2025-11-12T13:00:02.000Z"
+            },
+            {
+              "identifier": "1988592618486329654",
+              "commentcount": "40",
+              "articlebody": "Join us in wishing Russell Westbrook of the @SacramentoKings a HAPPY 37th BIRTHDAY!",
+              "datecreated": "2025-11-12T13:00:01.000Z",
+              "position": "3",
+              "url": "https://x.com/NBA/status/1988592618486329654",
+              "datepublished": "2025-11-12T13:00:01.000Z"
+            },
+            {
+              "identifier": "1988508364213493831",
+              "commentcount": "60",
+              "articlebody": "NBA STANDINGS UPDATE ‼️ ▪️ OKC improves to 11-1 ▪️ DEN, NYK win their 5th straight Download the NBA App for more: smart.link/rz7g9yb1babp2",
+              "datecreated": "2025-11-12T07:25:13.000Z",
+              "position": "4",
+              "url": "https://x.com/NBA/status/1988508364213493831",
+              "datepublished": "2025-11-12T07:25:13.000Z"
+            },
+            {
+              "identifier": "1988506015696887862",
+              "commentcount": "48",
+              "articlebody": "🏀 TUESDAY'S FINAL SCORES 🏀 Nikola Jokić drops a 35-point double-double on 16-19 shooting to power the @nuggets to their fifth win in a row! Jamal Murray: 23 PTS (10 in 4Q), 8 AST, 4...",
+              "datecreated": "2025-11-12T07:15:53.000Z",
+              "position": "5",
+              "isbasedon": "https://x.com/NBA/status/1988504163945242969",
+              "url": "https://x.com/NBA/status/1988506015696887862",
+              "datepublished": "2025-11-12T07:15:53.000Z"
+            },
+            {
+              "identifier": "1988504163945242969",
+              "commentcount": "44",
+              "articlebody": "🏀 TUESDAY'S FINAL SCORES 🏀 Lauri Markkanen goes off for 35 points and drains 5 triples to lead the @utahjazz to the highest scoring spree by any team this season (152)! Ace Bailey: 20...",
+              "datecreated": "2025-11-12T07:08:31.000Z",
+              "position": "6",
+              "isbasedon": "https://x.com/NBA/status/1988502320838029339",
+              "url": "https://x.com/NBA/status/1988504163945242969",
+              "datepublished": "2025-11-12T07:08:31.000Z"
+            },
+            {
+              "identifier": "1988502320838029339",
+              "commentcount": "47",
+              "articlebody": "🏀 TUESDAY'S FINAL SCORES 🏀 Tyrese Maxey continues his hot start to the season as the @sixers overcome an 8-point 4Q deficit for the thrilling win at home! Justin Edwards: 22 PTS (8-9...",
+              "datecreated": "2025-11-12T07:01:12.000Z",
+              "position": "7",
+              "isbasedon": "https://x.com/NBA/status/1988500143746752870",
+              "url": "https://x.com/NBA/status/1988502320838029339",
+              "datepublished": "2025-11-12T07:01:12.000Z"
+            },
+            {
+              "identifier": "1988500143746752870",
+              "commentcount": "51",
+              "articlebody": "🏀 TUESDAY'S FINAL SCORES 🏀 Shai Gilgeous-Alexander records his 84th straight game with 20+ PTS to move the @okcthunder to 11-1! Chet Holmgren: 23 PTS (9-9 FGM), 11 REB Isaiah Joe: 18...",
+              "datecreated": "2025-11-12T06:52:33.000Z",
+              "position": "9",
+              "isbasedon": "https://x.com/NBA/status/1988497277632073957",
+              "url": "https://x.com/NBA/status/1988500143746752870",
+              "datepublished": "2025-11-12T06:52:33.000Z"
+            },
+            {
+              "identifier": "1988501352075374694",
+              "commentcount": "60",
+              "articlebody": "Another Nikola Jokić hoops masterclass 🙌 💥 35 PTS 💥 16-19 FGM (84.2 FG%) 💥 15 REB 💥 7 AST 💥 2 STL Nuggets ride their 5-game W streak to 8-2!",
+              "datecreated": "2025-11-12T06:57:21.000Z",
+              "position": "8",
+              "url": "https://x.com/NBA/status/1988501352075374694",
+              "datepublished": "2025-11-12T06:57:21.000Z"
+            },
+            {
+              "identifier": "1988497277632073957",
+              "commentcount": "35",
+              "articlebody": "🏀 TUESDAY'S FINAL SCORES 🏀 Jalen Brunson's 80th 30+ PT game as a Knick keeps the @nyknicks perfect at home (7-0) and extends their winning streak to five! Mikal Bridges: 22 PTS, 7 REB,...",
+              "datecreated": "2025-11-12T06:41:10.000Z",
+              "position": "10",
+              "isbasedon": "https://x.com/NBA/status/1988492269356302835",
+              "url": "https://x.com/NBA/status/1988497277632073957",
+              "datepublished": "2025-11-12T06:41:10.000Z"
+            },
+            {
+              "identifier": "1988492269356302835",
+              "commentcount": "53",
+              "articlebody": "🏀 TUESDAY'S FINAL SCORES 🏀 Immanuel Quickley does a bit of everything as the @Raptors secure the road win in Brooklyn! Brandon Ingram: 25 PTS, 5 REB Scottie Barnes: 15 PTS (6-9 FGM),...",
+              "datecreated": "2025-11-12T06:21:16.000Z",
+              "position": "14",
+              "url": "https://x.com/NBA/status/1988492269356302835",
+              "datepublished": "2025-11-12T06:21:16.000Z"
+            },
+            {
+              "identifier": "1988496325776671072",
+              "commentcount": "43",
+              "articlebody": "Joker clutch trey... and the @nuggets have won 5 in a row 👌",
+              "datecreated": "2025-11-12T06:37:23.000Z",
+              "position": "11",
+              "url": "https://x.com/NBA/status/1988496325776671072",
+              "datepublished": "2025-11-12T06:37:23.000Z"
+            },
+            {
+              "identifier": "1988495814818214183",
+              "commentcount": "26",
+              "articlebody": "Tim Hardaway Jr. celebrating the Jokić and-1 🤣",
+              "datecreated": "2025-11-12T06:35:21.000Z",
+              "position": "12",
+              "isbasedon": "https://x.com/NBA/status/1988495324667601190",
+              "url": "https://x.com/NBA/status/1988495814818214183",
+              "datepublished": "2025-11-12T06:35:21.000Z"
+            },
+            {
+              "identifier": "1988495324667601190",
+              "commentcount": "41",
+              "articlebody": "JOKER DRAINS AND-1 FOR 32 😤 Nuggets lead late in the 4Q... 🏀 DEN/SAC on NBC & Peacock 📺 Check your local listings 📲 nba.com/how-to-watch-g…",
+              "datecreated": "2025-11-12T06:33:24.000Z",
+              "position": "13",
+              "url": "https://x.com/NBA/status/1988495324667601190",
+              "datepublished": "2025-11-12T06:33:24.000Z"
+            },
+            {
+              "identifier": "1988490411451846678",
+              "commentcount": "45",
+              "articlebody": "Jamal Murray is coming alive late for Denver 🍿 He's got 10 in the 4Q & the Nuggets are on a 15-2 run in Sacramento!",
+              "datecreated": "2025-11-12T06:13:53.000Z",
+              "position": "15",
+              "url": "https://x.com/NBA/status/1988490411451846678",
+              "datepublished": "2025-11-12T06:13:53.000Z"
+            },
+            {
+              "identifier": "1988490671301292182",
+              "commentcount": "1",
+              "articlebody": "🏀 DEN/SAC on NBC & Peacock 📺 Check your local listings 📲 nba.com/how-to-watch-g…",
+              "ispartof": "https://x.com/NBA/status/1988490411451846678",
+              "datecreated": "2025-11-12T06:14:55.000Z",
+              "position": "16",
+              "url": "https://x.com/NBA/status/1988490671301292182",
+              "datepublished": "2025-11-12T06:14:55.000Z"
+            },
+            {
+              "identifier": "1988487665465856051",
+              "commentcount": "55",
+              "articlebody": "Lauri Markkanen (35 PTS, 5 3PM) fuels the @utahjazz to the highest scoring output by ANY team this season (152) 🫡 That's his 7th game with at least 35 points & 5 triples since joining the Jazz!",
+              "datecreated": "2025-11-12T06:02:58.000Z",
+              "position": "17",
+              "url": "https://x.com/NBA/status/1988487665465856051",
+              "datepublished": "2025-11-12T06:02:58.000Z"
+            },
+            {
+              "identifier": "1988484922193891355",
+              "commentcount": "51",
+              "articlebody": "Nikola Jokić is just too tough. 27 PTS | 13-14 FGM | 12 REB | 6 AST And we've still got 2:06 to play in the 3Q 😳 🏀 DEN/SAC on NBC & Peacock 📺 Check your local listings 📲 nba.com/how-to...",
+              "datecreated": "2025-11-12T05:52:04.000Z",
+              "position": "18",
+              "url": "https://x.com/NBA/status/1988484922193891355",
+              "datepublished": "2025-11-12T05:52:04.000Z"
+            },
+            {
+              "identifier": "1988483160040956205",
+              "commentcount": "32",
+              "articlebody": "You can't score any faster than that 😮",
+              "datecreated": "2025-11-12T05:45:04.000Z",
+              "position": "19",
+              "isbasedon": "https://x.com/NBA/status/1988482439769919552",
+              "url": "https://x.com/NBA/status/1988483160040956205",
+              "datepublished": "2025-11-12T05:45:04.000Z"
+            },
+            {
+              "identifier": "1988482439769919552",
+              "commentcount": "41",
+              "articlebody": "JOKER FULL-COURT OUTLET... TOUCHDOWN 🎯 🏀 DEN/SAC on NBC & Peacock 📺 Check your local listings 📲 nba.com/how-to-watch-g…",
+              "datecreated": "2025-11-12T05:42:12.000Z",
+              "position": "20",
+              "url": "https://x.com/NBA/status/1988482439769919552",
+              "datepublished": "2025-11-12T05:42:12.000Z"
+            },
+            {
+              "identifier": "1988480422280319161",
+              "commentcount": "32",
+              "articlebody": "Jalen Brunson (32 PTS, 10 AST, 6 3PM) leads the @nyknicks to a 7-0 start at MSG this season 😱 That's FIVE straight wins for New York 👏",
+              "datecreated": "2025-11-12T05:34:11.000Z",
+              "position": "21",
+              "url": "https://x.com/NBA/status/1988480422280319161",
+              "datepublished": "2025-11-12T05:34:11.000Z"
+            }
+          ],
+          "listitem": [
+            {
+              "item": "X (Twitter)",
+              "name": "X (Twitter)",
+              "position": "1"
+            },
+            {
+              "item": "Explore",
+              "name": "Explore",
+              "position": "2"
+            },
+            {
+              "item": "NBA",
+              "name": "NBA",
+              "position": "3"
+            }
+          ],
+          "imageobject": [
+            {
+              "url": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/profile_banners/19923144/1762579992"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W_400x400.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W_normal.jpg"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5hUJuaWYAAzb_1.jpg",
+              "uploaddate": "2025-11-12T02:23:49.000Z",
+              "name": "NBA's Image on X",
+              "width": "1080",
+              "description": "Promotional graphic with NBA All-Star 2026 logo and stars on a dark blue background featuring text USA versus World in large white and red letters with a geometric wave design below. Includes...",
+              "url": "https://pbs.twimg.com/media/G5hUJuaWYAAzb_1.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5hUJuaWYAAzb_1.jpg?format=jpg&name=thumb",
+              "height": "1350"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5WAjlqasAAROPG.jpg",
+              "uploaddate": "2025-11-12T13:00:02.000Z",
+              "name": "NBA's Image on X",
+              "width": "4164",
+              "description": "Paolo Banchero wears a blue Orlando Magic jersey with Nike swoosh and Disney logo, number 5 on the front, holding a Wilson NBA basketball in his right hand, sitting with arms crossed, tattoos...",
+              "url": "https://pbs.twimg.com/media/G5WAjlqasAAROPG.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5WAjlqasAAROPG.jpg?format=jpg&name=thumb",
+              "height": "4538"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5WAhzGbsAELF0w.jpg",
+              "uploaddate": "2025-11-12T13:00:01.000Z",
+              "name": "NBA's Image on X",
+              "width": "2345",
+              "description": "Russell Westbrook stands on a basketball court wearing a black Sacramento Kings jersey with purple accents and the number 18 on the front, holding a basketball in his right hand, with a focused...",
+              "url": "https://pbs.twimg.com/media/G5WAhzGbsAELF0w.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5WAhzGbsAELF0w.jpg?format=jpg&name=thumb",
+              "height": "3225"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5iYidHXkAAVGGt.jpg",
+              "uploaddate": "2025-11-12T07:25:13.000Z",
+              "name": "NBA's Image 1 on X",
+              "width": "1080",
+              "description": "Image",
+              "url": "https://pbs.twimg.com/media/G5iYidHXkAAVGGt.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5iYidHXkAAVGGt.jpg?format=jpg&name=thumb",
+              "height": "1350"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5iYjeTWgAAF421.jpg",
+              "uploaddate": "2025-11-12T07:25:13.000Z",
+              "name": "NBA's Image 2 on X",
+              "width": "1080",
+              "description": "Image",
+              "url": "https://pbs.twimg.com/media/G5iYjeTWgAAF421.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5iYjeTWgAAF421.jpg?format=jpg&name=thumb",
+              "height": "1350"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5iWPJNXMAE93Zr.jpg",
+              "uploaddate": "2025-11-12T07:15:53.000Z",
+              "name": "NBA's Image on X",
+              "width": "2160",
+              "description": "Graphic displays Nikola Jokić in Nuggets jersey number 15 holding a basketball on court with stats showing 35 points 15 rebounds 7 assists 2 steals final score Nuggets 122 Kings 108 team records...",
+              "url": "https://pbs.twimg.com/media/G5iWPJNXMAE93Zr.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5iWPJNXMAE93Zr.jpg?format=jpg&name=thumb",
+              "height": "2700"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5iUdb8WoAA0RQ4.jpg",
+              "uploaddate": "2025-11-12T07:08:31.000Z",
+              "name": "NBA's Image on X",
+              "width": "2160",
+              "description": "Graphic overlay on image of three Utah Jazz players in navy blue jerseys standing courtside during game. Left player in jersey 23 with hand on shoulder of middle player in jersey 8. Right player...",
+              "url": "https://pbs.twimg.com/media/G5iUdb8WoAA0RQ4.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5iUdb8WoAA0RQ4.jpg?format=jpg&name=thumb",
+              "height": "2700"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5iUdb8WoAA0RQ4.jpg",
+              "uploaddate": "2025-11-12T07:08:31.000Z",
+              "name": "NBA's Image on X",
+              "width": "2160",
+              "description": "Graphic overlay on image of three Utah Jazz players in navy blue jerseys standing courtside during game. Left player in jersey 23 with hand on shoulder of middle player in jersey 8. Right player...",
+              "url": "https://pbs.twimg.com/media/G5iUdb8WoAA0RQ4.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5iUdb8WoAA0RQ4.jpg?format=jpg&name=thumb",
+              "height": "2700"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5iStEyW0AAaTUE.jpg",
+              "uploaddate": "2025-11-12T07:01:12.000Z",
+              "name": "NBA's Image on X",
+              "width": "2160",
+              "description": "Graphic displays Tyrese Maxey in Philadelphia 76ers blue jersey number 0 with braided hair smiling on court surrounded by fans stats show 21 points 5 rebounds 9 assists final score Boston Celtics...",
+              "url": "https://pbs.twimg.com/media/G5iStEyW0AAaTUE.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5iStEyW0AAaTUE.jpg?format=jpg&name=thumb",
+              "height": "2700"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5iStEyW0AAaTUE.jpg",
+              "uploaddate": "2025-11-12T07:01:12.000Z",
+              "name": "NBA's Image on X",
+              "width": "2160",
+              "description": "Graphic displays Tyrese Maxey in Philadelphia 76ers blue jersey number 0 with braided hair smiling on court surrounded by fans stats show 21 points 5 rebounds 9 assists final score Boston Celtics...",
+              "url": "https://pbs.twimg.com/media/G5iStEyW0AAaTUE.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5iStEyW0AAaTUE.jpg?format=jpg&name=thumb",
+              "height": "2700"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5iRSj3WAAAcObv.jpg",
+              "uploaddate": "2025-11-12T06:52:33.000Z",
+              "name": "NBA's Image on X",
+              "width": "2160",
+              "description": "Graphic overlay on Shai Gilgeous-Alexander in orange OKC Thunder jersey number 2 smiling on court with headband stats showing 28 points 5 rebounds 11 assists 3 steals 3 blocks final score Golden...",
+              "url": "https://pbs.twimg.com/media/G5iRSj3WAAAcObv.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5iRSj3WAAAcObv.jpg?format=jpg&name=thumb",
+              "height": "2700"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5iRSj3WAAAcObv.jpg",
+              "uploaddate": "2025-11-12T06:52:33.000Z",
+              "name": "NBA's Image on X",
+              "width": "2160",
+              "description": "Graphic overlay on Shai Gilgeous-Alexander in orange OKC Thunder jersey number 2 smiling on court with headband stats showing 28 points 5 rebounds 11 assists 3 steals 3 blocks final score Golden...",
+              "url": "https://pbs.twimg.com/media/G5iRSj3WAAAcObv.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5iRSj3WAAAcObv.jpg?format=jpg&name=thumb",
+              "height": "2700"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5iLSOqXwAAcZQ6.jpg",
+              "uploaddate": "2025-11-12T06:41:10.000Z",
+              "name": "NBA's Image on X",
+              "width": "2160",
+              "description": "Graphic overlay on image of Jalen Brunson in New York Knicks jersey number 11 holding basketball looking focused with stats 32 PTS 5 REB 10 AST 3 PM below him Memphis Grizzlies logo 120 FINAL...",
+              "url": "https://pbs.twimg.com/media/G5iLSOqXwAAcZQ6.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5iLSOqXwAAcZQ6.jpg?format=jpg&name=thumb",
+              "height": "2700"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5iLSOqXwAAcZQ6.jpg",
+              "uploaddate": "2025-11-12T06:41:10.000Z",
+              "name": "NBA's Image on X",
+              "width": "2160",
+              "description": "Graphic overlay on image of Jalen Brunson in New York Knicks jersey number 11 holding basketball looking focused with stats 32 PTS 5 REB 10 AST 3 PM below him Memphis Grizzlies logo 120 FINAL...",
+              "url": "https://pbs.twimg.com/media/G5iLSOqXwAAcZQ6.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5iLSOqXwAAcZQ6.jpg?format=jpg&name=thumb",
+              "height": "2700"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5iIRwuXwAANGxq.jpg",
+              "uploaddate": "2025-11-12T06:21:16.000Z",
+              "name": "NBA's Image on X",
+              "width": "2160",
+              "description": "Graphic displays Immanuel Quickley stats: 24 points 8 rebounds 5 assists 2 steals 3 blocks with photo of him in white Toronto Raptors jersey number 5 with red maple leaf logo dribbling basketball...",
+              "url": "https://pbs.twimg.com/media/G5iIRwuXwAANGxq.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5iIRwuXwAANGxq.jpg?format=jpg&name=thumb",
+              "height": "2700"
+            },
+            {
+              "contenturl": "https://pbs.twimg.com/media/G5iIRwuXwAANGxq.jpg",
+              "uploaddate": "2025-11-12T06:21:16.000Z",
+              "name": "NBA's Image on X",
+              "width": "2160",
+              "description": "Graphic displays Immanuel Quickley stats: 24 points 8 rebounds 5 assists 2 steals 3 blocks with photo of him in white Toronto Raptors jersey number 5 with red maple leaf logo dribbling basketball...",
+              "url": "https://pbs.twimg.com/media/G5iIRwuXwAANGxq.jpg",
+              "thumbnailurl": "https://pbs.twimg.com/media/G5iIRwuXwAANGxq.jpg?format=jpg&name=thumb",
+              "height": "2700"
+            }
+          ],
+          "entrypoint": [
+            {
+              "urltemplate": "https://x.com/search?q={search_term_string}&ref_src=twcamp%5Eseo_searchbox%7Ctwsrc%5Eseo"
+            }
+          ],
+          "person": [
+            {
+              "identifier": "19923144",
+              "relatedlink": "https://smart.link/h6st1n3k2q9sp",
+              "name": "NBA",
+              "disambiguatingdescription": "verified",
+              "description": "The 2025-26 NBA season continues Wednesday on ESPN! 🏀 7:00pm/et: Magic/Knicks 🏀 9:30pm/et: Lakers/Thunder",
+              "additionalname": "NBA",
+              "url": "https://x.com/NBA",
+              "sameas": "https://twitter.com/NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            },
+            {
+              "image": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W.jpg",
+              "identifier": "19923144",
+              "name": "NBA",
+              "alternatename": "NBA",
+              "disambiguatingdescription": "verified",
+              "url": "NBA"
+            }
+          ],
+          "organization": [
+            {
+              "name": "X",
+              "alternatename": "Twitter",
+              "url": "https://x.com",
+              "sameas": "https://twitter.com/x"
+            },
+            {
+              "name": "X"
+            }
+          ],
+          "interactioncounter": [
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "260",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988432516710076852"
+            },
+            {
+              "userinteractioncount": "578",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988432516710076852/retweets"
+            },
+            {
+              "userinteractioncount": "2942",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988432516710076852/likes"
+            },
+            {
+              "userinteractioncount": "319",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988432516710076852/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "1597557",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "36",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988592624887046321"
+            },
+            {
+              "userinteractioncount": "16",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988592624887046321/retweets"
+            },
+            {
+              "userinteractioncount": "159",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988592624887046321/likes"
+            },
+            {
+              "userinteractioncount": "9",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988592624887046321/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "29620",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "40",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988592618486329654"
+            },
+            {
+              "userinteractioncount": "34",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988592618486329654/retweets"
+            },
+            {
+              "userinteractioncount": "221",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988592618486329654/likes"
+            },
+            {
+              "userinteractioncount": "6",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988592618486329654/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "27805",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "60",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988508364213493831"
+            },
+            {
+              "userinteractioncount": "169",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988508364213493831/retweets"
+            },
+            {
+              "userinteractioncount": "1082",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988508364213493831/likes"
+            },
+            {
+              "userinteractioncount": "33",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988508364213493831/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "106737",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "44",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988504163945242969"
+            },
+            {
+              "userinteractioncount": "61",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988504163945242969/retweets"
+            },
+            {
+              "userinteractioncount": "551",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988504163945242969/likes"
+            },
+            {
+              "userinteractioncount": "11",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988504163945242969/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "267100",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "48",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988506015696887862"
+            },
+            {
+              "userinteractioncount": "81",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988506015696887862/retweets"
+            },
+            {
+              "userinteractioncount": "775",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988506015696887862/likes"
+            },
+            {
+              "userinteractioncount": "9",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988506015696887862/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "144223",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "47",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988502320838029339"
+            },
+            {
+              "userinteractioncount": "77",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988502320838029339/retweets"
+            },
+            {
+              "userinteractioncount": "716",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988502320838029339/likes"
+            },
+            {
+              "userinteractioncount": "10",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988502320838029339/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "251586",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "44",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988504163945242969"
+            },
+            {
+              "userinteractioncount": "61",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988504163945242969/retweets"
+            },
+            {
+              "userinteractioncount": "551",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988504163945242969/likes"
+            },
+            {
+              "userinteractioncount": "11",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988504163945242969/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "267100",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "51",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988500143746752870"
+            },
+            {
+              "userinteractioncount": "76",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988500143746752870/retweets"
+            },
+            {
+              "userinteractioncount": "617",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988500143746752870/likes"
+            },
+            {
+              "userinteractioncount": "18",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988500143746752870/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "234183",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "47",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988502320838029339"
+            },
+            {
+              "userinteractioncount": "77",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988502320838029339/retweets"
+            },
+            {
+              "userinteractioncount": "716",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988502320838029339/likes"
+            },
+            {
+              "userinteractioncount": "10",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988502320838029339/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "251586",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "99490",
+              "interactiontype": "https://schema.org/WatchAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "60",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988501352075374694"
+            },
+            {
+              "userinteractioncount": "189",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988501352075374694/retweets"
+            },
+            {
+              "userinteractioncount": "1405",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988501352075374694/likes"
+            },
+            {
+              "userinteractioncount": "24",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988501352075374694/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "99490",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "35",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988497277632073957"
+            },
+            {
+              "userinteractioncount": "55",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988497277632073957/retweets"
+            },
+            {
+              "userinteractioncount": "282",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988497277632073957/likes"
+            },
+            {
+              "userinteractioncount": "3",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988497277632073957/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "199463",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "51",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988500143746752870"
+            },
+            {
+              "userinteractioncount": "76",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988500143746752870/retweets"
+            },
+            {
+              "userinteractioncount": "617",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988500143746752870/likes"
+            },
+            {
+              "userinteractioncount": "18",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988500143746752870/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "234183",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "53",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988492269356302835"
+            },
+            {
+              "userinteractioncount": "62",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988492269356302835/retweets"
+            },
+            {
+              "userinteractioncount": "388",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988492269356302835/likes"
+            },
+            {
+              "userinteractioncount": "4",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988492269356302835/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "157502",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "35",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988497277632073957"
+            },
+            {
+              "userinteractioncount": "55",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988497277632073957/retweets"
+            },
+            {
+              "userinteractioncount": "282",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988497277632073957/likes"
+            },
+            {
+              "userinteractioncount": "3",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988497277632073957/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "199463",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "76124",
+              "interactiontype": "https://schema.org/WatchAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "43",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988496325776671072"
+            },
+            {
+              "userinteractioncount": "41",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988496325776671072/retweets"
+            },
+            {
+              "userinteractioncount": "447",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988496325776671072/likes"
+            },
+            {
+              "userinteractioncount": "7",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988496325776671072/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "76124",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "107208",
+              "interactiontype": "https://schema.org/WatchAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "156361",
+              "interactiontype": "https://schema.org/WatchAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "41",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988495324667601190"
+            },
+            {
+              "userinteractioncount": "20",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988495324667601190/retweets"
+            },
+            {
+              "userinteractioncount": "200",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988495324667601190/likes"
+            },
+            {
+              "userinteractioncount": "5",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988495324667601190/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "156361",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "26",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988495814818214183"
+            },
+            {
+              "userinteractioncount": "26",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988495814818214183/retweets"
+            },
+            {
+              "userinteractioncount": "325",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988495814818214183/likes"
+            },
+            {
+              "userinteractioncount": "3",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988495814818214183/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "107208",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "156361",
+              "interactiontype": "https://schema.org/WatchAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "41",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988495324667601190"
+            },
+            {
+              "userinteractioncount": "20",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988495324667601190/retweets"
+            },
+            {
+              "userinteractioncount": "200",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988495324667601190/likes"
+            },
+            {
+              "userinteractioncount": "5",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988495324667601190/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "156361",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "53",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988492269356302835"
+            },
+            {
+              "userinteractioncount": "62",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988492269356302835/retweets"
+            },
+            {
+              "userinteractioncount": "388",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988492269356302835/likes"
+            },
+            {
+              "userinteractioncount": "4",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988492269356302835/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "157502",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "81429",
+              "interactiontype": "https://schema.org/WatchAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "45",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988490411451846678"
+            },
+            {
+              "userinteractioncount": "20",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988490411451846678/retweets"
+            },
+            {
+              "userinteractioncount": "209",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988490411451846678/likes"
+            },
+            {
+              "userinteractioncount": "3",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988490411451846678/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "81429",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "1",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988490671301292182"
+            },
+            {
+              "userinteractioncount": "1",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988490671301292182/retweets"
+            },
+            {
+              "userinteractioncount": "22",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988490671301292182/likes"
+            },
+            {
+              "userinteractioncount": "0",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988490671301292182/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "56375",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "71144",
+              "interactiontype": "https://schema.org/WatchAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "55",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988487665465856051"
+            },
+            {
+              "userinteractioncount": "29",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988487665465856051/retweets"
+            },
+            {
+              "userinteractioncount": "252",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988487665465856051/likes"
+            },
+            {
+              "userinteractioncount": "7",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988487665465856051/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "71144",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "73964",
+              "interactiontype": "https://schema.org/WatchAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "51",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988484922193891355"
+            },
+            {
+              "userinteractioncount": "30",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988484922193891355/retweets"
+            },
+            {
+              "userinteractioncount": "256",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988484922193891355/likes"
+            },
+            {
+              "userinteractioncount": "4",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988484922193891355/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "73964",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "105861",
+              "interactiontype": "https://schema.org/WatchAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "165519",
+              "interactiontype": "https://schema.org/WatchAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "41",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988482439769919552"
+            },
+            {
+              "userinteractioncount": "24",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988482439769919552/retweets"
+            },
+            {
+              "userinteractioncount": "246",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988482439769919552/likes"
+            },
+            {
+              "userinteractioncount": "6",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988482439769919552/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "165519",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "32",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988483160040956205"
+            },
+            {
+              "userinteractioncount": "21",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988483160040956205/retweets"
+            },
+            {
+              "userinteractioncount": "301",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988483160040956205/likes"
+            },
+            {
+              "userinteractioncount": "1",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988483160040956205/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "105861",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "165519",
+              "interactiontype": "https://schema.org/WatchAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "41",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988482439769919552"
+            },
+            {
+              "userinteractioncount": "24",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988482439769919552/retweets"
+            },
+            {
+              "userinteractioncount": "246",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988482439769919552/likes"
+            },
+            {
+              "userinteractioncount": "6",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988482439769919552/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "165519",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "391744",
+              "interactiontype": "https://schema.org/WriteAction",
+              "name": "Tweets"
+            },
+            {
+              "userinteractioncount": "2045",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Following"
+            },
+            {
+              "userinteractioncount": "47624294",
+              "interactiontype": "https://schema.org/FollowAction",
+              "name": "Follows"
+            },
+            {
+              "userinteractioncount": "67605",
+              "interactiontype": "https://schema.org/WatchAction",
+              "name": "Views"
+            },
+            {
+              "userinteractioncount": "32",
+              "interactiontype": "https://schema.org/ReplyAction",
+              "name": "Replies",
+              "url": "https://x.com/NBA/status/1988480422280319161"
+            },
+            {
+              "userinteractioncount": "32",
+              "interactiontype": "https://schema.org/ShareAction",
+              "name": "Retweets",
+              "url": "https://x.com/NBA/status/1988480422280319161/retweets"
+            },
+            {
+              "userinteractioncount": "226",
+              "interactiontype": "https://schema.org/LikeAction",
+              "name": "Likes",
+              "url": "https://x.com/NBA/status/1988480422280319161/likes"
+            },
+            {
+              "userinteractioncount": "5",
+              "interactiontype": "https://schema.org/InteractAction",
+              "name": "Quotes",
+              "url": "https://x.com/NBA/status/1988480422280319161/retweets/with_comments"
+            },
+            {
+              "userinteractioncount": "67605",
+              "interactiontype": "https://schema.org/ViewAction",
+              "name": "Views"
+            }
+          ],
+          "profilepage": [
+            {
+              "datecreated": "2009-02-02T19:04:42.000Z",
+              "url": "https://x.com/NBA"
+            }
+          ],
+          "webpage": [
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988432516710076852/photo/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988592624887046321/photo/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988592618486329654/photo/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://smart.link/rz7g9yb1babp2"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988506015696887862/photo/1"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988504163945242969/photo/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988504163945242969/photo/1"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988502320838029339/photo/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988502320838029339/photo/1"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988500143746752870/photo/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988501352075374694/video/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988500143746752870/photo/1"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988497277632073957/photo/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988497277632073957/photo/1"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988492269356302835/photo/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988496325776671072/video/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988495814818214183/video/1"
+            },
+            {
+              "url": "https://www.nba.com/how-to-watch-game-redirect/0022500212?partnerRef=NBA&platform=X&surface=Post"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988495324667601190/video/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://www.nba.com/how-to-watch-game-redirect/0022500212?partnerRef=NBA&platform=X&surface=Post"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988495324667601190/video/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988492269356302835/photo/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988490411451846678/video/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://www.nba.com/how-to-watch-game-redirect/0022500212?partnerRef=NBA&platform=X&surface=Post"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988487665465856051/video/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://www.nba.com/how-to-watch-game-redirect/0022500212?partnerRef=NBA&platform=X&surface=Post"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988484922193891355/video/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988483160040956205/video/1"
+            },
+            {
+              "url": "https://www.nba.com/how-to-watch-game-redirect/0022500212?partnerRef=NBA&platform=X&surface=Post"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988482439769919552/video/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://www.nba.com/how-to-watch-game-redirect/0022500212?partnerRef=NBA&platform=X&surface=Post"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988482439769919552/video/1"
+            },
+            {
+              "url": "https://x.com/NBA"
+            },
+            {
+              "url": "https://twitter.com/NBA/status/1988480422280319161/video/1"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://pbs.twimg.com/profile_images/1988495965121101824/d0abix5W_400x400.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "National Basketball Association - Wikipedia",
+        "htmlTitle": "<b>National Basketball Association</b> - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/National_Basketball_Association",
+        "displayLink": "en.wikipedia.org",
+        "snippet": "The National Basketball Association (NBA) is a professional basketball league in North America composed of 30 teams (29 in the United States and 1 in Canada).",
+        "htmlSnippet": "The <b>National Basketball Association</b> (<b>NBA</b>) is a professional basketball league in North America composed of 30 teams (29 in the United States and 1 in Canada).",
+        "formattedUrl": "https://en.wikipedia.org/wiki/National_Basketball_Association",
+        "htmlFormattedUrl": "https://en.wikipedia.org/wiki/National_Basketball_Association",
+        "pagemap": {
+          "hcard": [
+            {
+              "fn": "Boston Celtics"
+            },
+            {
+              "fn": "Brooklyn Nets"
+            },
+            {
+              "fn": "New York Knicks"
+            },
+            {
+              "fn": "Philadelphia 76ers"
+            },
+            {
+              "fn": "Toronto Raptors"
+            },
+            {
+              "fn": "Chicago Bulls"
+            },
+            {
+              "fn": "Cleveland Cavaliers"
+            },
+            {
+              "fn": "Detroit Pistons"
+            },
+            {
+              "fn": "Indiana Pacers"
+            },
+            {
+              "fn": "Milwaukee Bucks"
+            }
+          ],
+          "metatags": [
+            {
+              "referrer": "origin",
+              "og:image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/529px-National_Basketball_Association_logo.svg.png",
+              "theme-color": "#eaecf0",
+              "og:image:width": "529",
+              "og:type": "website",
+              "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+              "og:title": "National Basketball Association - Wikipedia",
+              "og:image:height": "1200",
+              "format-detection": "telephone=no"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "NBA Schedule - 2025 Season - ESPN",
+        "htmlTitle": "<b>NBA</b> Schedule - 2025 Season - ESPN",
+        "link": "https://www.espn.com/nba/schedule",
+        "displayLink": "www.espn.com",
+        "snippet": "The complete 2025 NBA season schedule on ESPN. Includes game times, TV listings and ticket information for all NBA games.",
+        "htmlSnippet": "The complete 2025 <b>NBA</b> season schedule on ESPN. Includes game times, TV listings and ticket information for all <b>NBA</b> games.",
+        "formattedUrl": "https://www.espn.com/nba/schedule",
+        "htmlFormattedUrl": "https://www.espn.com/<b>nba</b>/schedule",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfLn31Fc7cTJZeN3-k_4pnIzLwkqqyWF6zDmYj1zlyxTd155ClXEUriWPT&s",
+              "width": "225",
+              "height": "225"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/nba.png",
+              "twitter:app:id:googleplay": "com.espn.score_center",
+              "og:image:width": "500",
+              "og:type": "website",
+              "twitter:title": "NBA Schedule - 2025 Season - ESPN",
+              "twitter:card": "summary",
+              "og:site_name": "ESPN",
+              "twitter:url": "https://www.espn.com/nba/schedule",
+              "og:title": "NBA Schedule - 2025 Season - ESPN",
+              "og:image:height": "500",
+              "twitter:app:name:googleplay": "ESPN",
+              "medium": "website",
+              "twitter:app:id:iphone": "317469184",
+              "title": "NBA Schedule - 2025 Season - ESPN",
+              "og:description": "The complete 2025 NBA season schedule on ESPN. Includes game times, TV listings and ticket information for all NBA games.",
+              "twitter:image": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/nba.png",
+              "fb:app_id": "116656161708917",
+              "twitter:site": "espn",
+              "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+              "twitter:description": "The complete 2025 NBA season schedule on ESPN. Includes game times, TV listings and ticket information for all NBA games.",
+              "og:locale": "en_US",
+              "og:url": "https://www.espn.com/nba/schedule",
+              "twitter:app:name:iphone": "ESPN"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/nba.png"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "NBA Jerseys, NBA Nike Apparel, NBA Merchandise | The Official ...",
+        "htmlTitle": "<b>NBA</b> Jerseys, <b>NBA</b> Nike Apparel, <b>NBA</b> Merchandise | The Official ...",
+        "link": "https://store.nba.com/",
+        "displayLink": "store.nba.com",
+        "snippet": "Browse our collection of NBA jerseys, including authentic jerseys, and swingman jerseys styles showcase your favorite players.",
+        "htmlSnippet": "Browse our collection of <b>NBA</b> jerseys, including authentic jerseys, and swingman jerseys styles showcase your favorite players.",
+        "formattedUrl": "https://store.nba.com/",
+        "htmlFormattedUrl": "https://store.<b>nba</b>.com/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54IMQX6t2PaFFUp4x9oYUVeWWkrug6H0T90hH_L6uJdBg3-rKWnq5b0Xg&s",
+              "width": "358",
+              "height": "141"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://store.nba.com/content/assets/__0-1593953797330.8162.svg",
+              "twitter:title": "NBA Jerseys, NBA Nike Apparel, NBA Merchandise | The Official NBA Store",
+              "og:type": "website",
+              "twitter:card": "summary_large_image",
+              "twitter:site": "@Fanatics",
+              "og:site_name": "NBA Store",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "Score official NBA Gear, NBA Nike Jerseys, NBA Apparel & Memorabilia and other NBA products for all 30 teams. Official NBA Gear for all ages. Shop for men, women and kids' basketball gear and merchandise at Store.NBA.com.",
+              "og:title": "NBA Jerseys, NBA Nike Apparel, NBA Merchandise | The Official NBA Store",
+              "og:url": "https://store.nba.com",
+              "og:description": "Score official NBA Gear, NBA Nike Jerseys, NBA Apparel & Memorabilia and other NBA products for all 30 teams. Official NBA Gear for all ages. Shop for men, women and kids' basketball gear and merchandise at Store.NBA.com.",
+              "twitter:image": "https://store.nba.com/content/assets/__0-1593953797330.8162.svg"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://store.nba.com/content/assets/__0-1593953797330.8162.svg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "NBA - YouTube",
+        "htmlTitle": "<b>NBA</b> - YouTube",
+        "link": "https://www.youtube.com/nba",
+        "displayLink": "www.youtube.com",
+        "snippet": "The NBA is the premier professional basketball league in the United States and Canada. The league is truly global, with games and programming in 215 ...",
+        "htmlSnippet": "The <b>NBA</b> is the premier professional basketball league in the United States and Canada. The league is truly global, with games and programming in 215&nbsp;...",
+        "formattedUrl": "https://www.youtube.com/nba",
+        "htmlFormattedUrl": "https://www.youtube.com/<b>nba</b>",
+        "pagemap": {
+          "hcard": [
+            {
+              "fn": "NBA",
+              "nickname": "NBA",
+              "url": "https://www.youtube.com/channel/UCWJ2lWNubArHWmf3FIHbfcQ"
+            }
+          ],
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOcqKHOkWIDovpNNskg4bZLXgFycrSp33JNWsRd2zbk6omeIVIDBw0Fg5&s",
+              "width": "225",
+              "height": "225"
+            }
+          ],
+          "imageobject": [
+            {
+              "width": "900",
+              "url": "https://yt3.googleusercontent.com/88JbRSuKK6QkKCy4Oi_vqPlyyGtJdqA43YQyhjdHy4AkmT5TBfiPXR58uQwRQ19CsjYv0KiRco4=s900-c-k-c0x00ffffff-no-rj",
+              "height": "900"
+            }
+          ],
+          "person": [
+            {
+              "name": "NBA",
+              "url": "https://www.youtube.com/channel/UCWJ2lWNubArHWmf3FIHbfcQ"
+            }
+          ],
+          "metatags": [
+            {
+              "apple-itunes-app": "app-id=544007664, app-argument=https://m.youtube.com/nba?referring_app=com.apple.mobilesafari-smartbanner, affiliate-data=ct=smart_app_banner_polymer&pt=9008",
+              "og:image": "https://yt3.googleusercontent.com/88JbRSuKK6QkKCy4Oi_vqPlyyGtJdqA43YQyhjdHy4AkmT5TBfiPXR58uQwRQ19CsjYv0KiRco4=s900-c-k-c0x00ffffff-no-rj",
+              "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/channel/UCWJ2lWNubArHWmf3FIHbfcQ",
+              "twitter:app:id:googleplay": "com.google.android.youtube",
+              "theme-color": "rgba(255, 255, 255, 0.9)",
+              "og:image:width": "900",
+              "twitter:card": "summary",
+              "og:site_name": "YouTube",
+              "twitter:url": "https://www.youtube.com/nba",
+              "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/channel/UCWJ2lWNubArHWmf3FIHbfcQ",
+              "al:android:package": "com.google.android.youtube",
+              "twitter:app:name:googleplay": "YouTube",
+              "al:ios:url": "vnd.youtube://www.youtube.com/channel/UCWJ2lWNubArHWmf3FIHbfcQ",
+              "twitter:app:id:iphone": "544007664",
+              "og:description": "The NBA is the premier professional basketball league in the United States and Canada. The league is truly global, with games and programming in 215 countries and territories in 47 languages. The NBA consists of 30 teams. The NBA offers real time access to live regular season NBA games with a subscription to NBA LEAGUE PASS, available globally for TV, broadband, and mobile.  Real-time Stats, Scores, Highlights and more are available to fans on web and mobile with the NBA App. \n\nFor news, stories, highlights and more, go to our official website at https://app.link.nba.com/e/NBA_site",
+              "al:ios:app_store_id": "544007664",
+              "twitter:image": "https://yt3.googleusercontent.com/88JbRSuKK6QkKCy4Oi_vqPlyyGtJdqA43YQyhjdHy4AkmT5TBfiPXR58uQwRQ19CsjYv0KiRco4=s900-c-k-c0x00ffffff-no-rj",
+              "twitter:site": "@youtube",
+              "og:type": "profile",
+              "twitter:title": "NBA",
+              "al:ios:app_name": "YouTube",
+              "og:title": "NBA",
+              "og:image:height": "900",
+              "twitter:app:id:ipad": "544007664",
+              "al:web:url": "https://www.youtube.com/channel/UCWJ2lWNubArHWmf3FIHbfcQ?feature=applinks",
+              "og:video:tag": "NBA",
+              "al:android:url": "https://www.youtube.com/channel/UCWJ2lWNubArHWmf3FIHbfcQ?feature=applinks",
+              "fb:app_id": "87741124305",
+              "twitter:app:url:googleplay": "https://www.youtube.com/channel/UCWJ2lWNubArHWmf3FIHbfcQ",
+              "twitter:app:name:ipad": "YouTube",
+              "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,",
+              "twitter:description": "The NBA is the premier professional basketball league in the United States and Canada. The league is truly global, with games and programming in 215 countries and territories in 47 languages. The NBA consists of 30 teams. The NBA offers real time access to live regular season NBA games with a subscription to NBA LEAGUE PASS, available globally for TV, broadband, and mobile.  Real-time Stats, Scores, Highlights and more are available to fans on web and mobile with the NBA App. \n\nFor news, stories, highlights and more, go to our official website at https://app.link.nba.com/e/NBA_site",
+              "og:url": "https://www.youtube.com/nba",
+              "al:android:app_name": "YouTube",
+              "twitter:app:name:iphone": "YouTube"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://yt3.googleusercontent.com/88JbRSuKK6QkKCy4Oi_vqPlyyGtJdqA43YQyhjdHy4AkmT5TBfiPXR58uQwRQ19CsjYv0KiRco4=s900-c-k-c0x00ffffff-no-rj"
+            }
+          ],
+          "thing": [
+            {
+              "name": "NBA"
+            }
+          ],
+          "listitem": [
+            {
+              "position": "1"
+            }
+          ]
+        }
+      }
+    ],
+    "searchInformation": {
+      "searchTime": 0.316348,
+      "formattedSearchTime": "0.32",
+      "totalResults": "600000000",
+      "formattedTotalResults": "600,000,000"
+    },
+    "error": null
+  },
+  "timestamp": "2025-11-12T20:03:27.507Z"
+}

@@ -1,0 +1,456 @@
+{
+  "query": "crypto",
+  "results": {
+    "query": "crypto",
+    "totalResults": "399000000",
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "Crypto.com: Securely Buy, Sell and Trade Bitcoin, Ethereum and ...",
+        "htmlTitle": "<b>Crypto</b>.com: Securely Buy, Sell and Trade Bitcoin, Ethereum and ...",
+        "link": "https://crypto.com/us",
+        "displayLink": "crypto.com",
+        "snippet": "Buy, sell, store, and trade over 400+ cryptocurrencies on Crypto.com, a secure and trusted crypto exchange platform in the US.",
+        "htmlSnippet": "Buy, sell, store, and trade over 400+ cryptocurrencies on <b>Crypto</b>.com, a secure and trusted <b>crypto</b> exchange platform in the US.",
+        "formattedUrl": "https://crypto.com/us",
+        "htmlFormattedUrl": "https://<b>crypto</b>.com/us",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdfXO9WzEtY5SB0-dbPao4__pT55HgXHag_9wfb4iOc306piSFIAUCHvss&s",
+              "width": "311",
+              "height": "162"
+            }
+          ],
+          "metatags": [
+            {
+              "p:domain_verify": "0a98bc7058ecaa15f2e6a2e01e61a09e",
+              "og:image": "https://crypto.com/images/meta-og/listing.png",
+              "og:type": "website",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Crypto.com: Securely Buy, Sell and Trade Bitcoin, Ethereum and 400+ Crypto",
+              "og:image:width": "2500",
+              "og:image:alt": "Crypto.com: Securely Buy, Sell and Trade Bitcoin, Ethereum and 400+ Crypto",
+              "theme-color": "#061121",
+              "og:title": "Crypto.com: Securely Buy, Sell and Trade Bitcoin, Ethereum and 400+ Crypto",
+              "og:image:height": "1309",
+              "yandex-verification": "49b8ab40abd47d4c",
+              "title": "Crypto.com: Securely Buy, Sell and Trade Bitcoin, Ethereum and 400+ Crypto",
+              "og:description": "Buy, sell, store, and trade over 400+ cryptocurrencies on Crypto.com, a secure and trusted crypto exchange platform in the US.",
+              "twitter:creator": "@crypto.com",
+              "twitter:image": "https://crypto.com/images/meta-og/listing.png",
+              "twitter:site": "@crypto.com",
+              "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+              "twitter:description": "Buy, sell, store, and trade over 400+ cryptocurrencies on Crypto.com, a secure and trusted crypto exchange platform in the US.",
+              "og:url": "https://crypto.com/us"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://crypto.com/images/meta-og/listing.png"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "CoinMarketCap: Cryptocurrency Prices, Charts And Market ...",
+        "htmlTitle": "CoinMarketCap: Cryptocurrency Prices, Charts And Market ...",
+        "link": "https://coinmarketcap.com/",
+        "displayLink": "coinmarketcap.com",
+        "snippet": "Today's Cryptocurrency Prices by Market Cap. The global crypto market cap is $3.45T, a 2.92% decrease over the last day.",
+        "htmlSnippet": "Today&#39;s Cryptocurrency Prices by Market Cap. The global <b>crypto</b> market cap is $3.45T, a 2.92% decrease over the last day.",
+        "formattedUrl": "https://coinmarketcap.com/",
+        "htmlFormattedUrl": "https://coinmarketcap.com/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUxnhpbN6dgAnQxSjMR5VQ5bQkb4sWLmPJ7bb2CKl0WBjk2WrcAOG7Clw&s",
+              "width": "310",
+              "height": "163"
+            }
+          ],
+          "metatags": [
+            {
+              "next-head-count": "43",
+              "og:image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=2b4546e",
+              "og:image:width": "600",
+              "og:type": "website",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "CoinMarketCap",
+              "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no",
+              "og:title": "Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap",
+              "og:image:height": "315",
+              "og:image:type": "image/png",
+              "og:url": "https://coinmarketcap.com/",
+              "og:description": "Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=2b4546e"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Cryptocurrency - Wikipedia",
+        "htmlTitle": "Cryptocurrency - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Cryptocurrency",
+        "displayLink": "en.wikipedia.org",
+        "snippet": "A cryptocurrency (colloquially crypto) is a digital currency designed to work through a computer network that is not reliant on any central authority, ...",
+        "htmlSnippet": "A cryptocurrency (colloquially <b>crypto</b>) is a digital currency designed to work through a computer network that is not reliant on any central authority,&nbsp;...",
+        "formattedUrl": "https://en.wikipedia.org/wiki/Cryptocurrency",
+        "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Crypto</b>currency",
+        "pagemap": {
+          "metatags": [
+            {
+              "referrer": "origin",
+              "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
+              "theme-color": "#eaecf0",
+              "og:image:width": "1200",
+              "og:type": "website",
+              "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+              "og:title": "Cryptocurrency - Wikipedia",
+              "og:image:height": "1200",
+              "format-detection": "telephone=no"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Crypto.com Arena",
+        "htmlTitle": "<b>Crypto</b>.com Arena",
+        "link": "https://www.cryptoarena.com/",
+        "displayLink": "www.cryptoarena.com",
+        "snippet": "Sports and entertainment center of the world. Home to the Los Angeles Kings, Los Angeles Lakers, Los Angeles Clippers and Los Angeles Sparks.",
+        "htmlSnippet": "Sports and entertainment center of the world. Home to the Los Angeles Kings, Los Angeles Lakers, Los Angeles Clippers and Los Angeles Sparks.",
+        "formattedUrl": "https://www.cryptoarena.com/",
+        "htmlFormattedUrl": "https://www.<b>crypto</b>arena.com/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3lSD_PCkehiVQnSKTz8JM1cCJhHhOogqLAUiK66HKHqBqlxhyjpKcp3w&s",
+              "width": "293",
+              "height": "172"
+            }
+          ],
+          "thumbnail": [
+            {
+              "src": "https://www.cryptoarena.com/assets/img/CA_Default_Thumbnail-4e702259d7.jpg"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://www.cryptoarena.com/assets/img/CA_Default_Thumbnail-4e702259d7.jpg",
+              "og:type": "website",
+              "og:image:width": "550",
+              "thumbnail": "https://www.cryptoarena.com/assets/img/CA_Default_Thumbnail-4e702259d7.jpg",
+              "twitter:card": "summary",
+              "twitter:title": "Crypto.com Arena",
+              "author": "Crypto.com Arena",
+              "og:title": "Crypto.com Arena",
+              "og:image:height": "324",
+              "og:description": "Sports and entertainment center of the world. Home to the Los Angeles Kings, Los Angeles Lakers, Los Angeles Clippers and Los Angeles Sparks.",
+              "twitter:image": "https://www.cryptoarena.com/assets/img/CA_Default_Thumbnail-4e702259d7.jpg",
+              "twitter:site": "@cryptocomarena",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "Sports and entertainment center of the world. Home to the Los Angeles Kings, Los Angeles Lakers, Los Angeles Clippers and Los Angeles Sparks.",
+              "og:url": "https://www.cryptoarena.com/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.cryptoarena.com/assets/img/CA_Default_Thumbnail-4e702259d7.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Crypto Sheriff | The No More Ransom Project",
+        "htmlTitle": "<b>Crypto</b> Sheriff | The No More Ransom Project",
+        "link": "https://www.nomoreransom.org/crypto-sheriff.php?lang=en",
+        "displayLink": "www.nomoreransom.org",
+        "snippet": "To help us define the type of ransomware affecting your device, please fill in the form below. This will enable us to check whether there is a solution ...",
+        "htmlSnippet": "To help us define the type of ransomware affecting your device, please fill in the form below. This will enable us to check whether there is a solution&nbsp;...",
+        "formattedUrl": "https://www.nomoreransom.org/crypto-sheriff.php?lang=en",
+        "htmlFormattedUrl": "https://www.nomoreransom.org/<b>crypto</b>-sheriff.php?lang=en",
+        "pagemap": {
+          "metatags": [
+            {
+              "msapplication-tilecolor": "#102A87",
+              "og:image": "https://www.nomoreransom.org/assets/img/social-share-image.png",
+              "theme-color": "#102A87",
+              "og:type": "article",
+              "og:site_name": "The No More Ransom Project",
+              "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1",
+              "og:title": "Crypto Sheriff | The No More Ransom Project",
+              "msapplication-tileimage": "/assets/icons/ms-icon-144x144.png",
+              "og:description": "To help us define the type of ransomware affecting your device, please fill in the form below. This will enable us to check whether there is a solution available. If there is, we will provide you with the link to download the decryption solution."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.nomoreransom.org/assets/img/social-share-image.png"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "House Announces Week of July 14th as “Crypto Week” | U.S. House ...",
+        "htmlTitle": "House Announces Week of July 14th as “<b>Crypto</b> Week” | U.S. House ...",
+        "link": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410793",
+        "displayLink": "financialservices.house.gov",
+        "snippet": "Jul 3, 2025 ... “During 'Crypto Week,' the House looks forward to the timely consideration of three landmark pieces of legislation: the CLARITY Act, the Anti- ...",
+        "htmlSnippet": "Jul 3, 2025 <b>...</b> “During &#39;<b>Crypto</b> Week,&#39; the House looks forward to the timely consideration of three landmark pieces of legislation: the CLARITY Act, the Anti-&nbsp;...",
+        "formattedUrl": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID...",
+        "htmlFormattedUrl": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID...",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJKA1Bbc5lb4aLrn6HgpV3_G1xK--vC3KQ-_cq_-3h6ghLFD01D1GrjY&s",
+              "width": "310",
+              "height": "163"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://republicans-financialservices.house.gov/images/facebook-meta.jpg",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Press Releases | U.S. House Committee on Financial Services",
+              "og:image:width": "1200",
+              "og:type": "article",
+              "article:published_time": "2025-07-03",
+              "article:section": "Press Releases",
+              "og:site_name": "U.S. House Committee on Financial Services",
+              "og:title": "House Announces Week of July 14th as “Crypto Week”",
+              "og:image:height": "630",
+              "twitter:image": "https://republicans-financialservices.house.gov/images/twitter-meta.jpg",
+              "twitter:site": "@financialcmte",
+              "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+              "og:url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410793"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://republicans-financialservices.house.gov/images/facebook-meta.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Crypto: How the Code Rebels Beat the Government Saving Privacy ...",
+        "htmlTitle": "<b>Crypto</b>: How the Code Rebels Beat the Government Saving Privacy ...",
+        "link": "https://www.amazon.com/Crypto-Rebels-Government-Privacy-Digital/dp/0140244328",
+        "displayLink": "www.amazon.com",
+        "snippet": "Crypto tells the inside story of how a group of \"crypto rebels\"—nerds and visionaries turned freedom fighters—teamed up with corporate interests to beat Big ...",
+        "htmlSnippet": "<b>Crypto</b> tells the inside story of how a group of &quot;<b>crypto</b> rebels&quot;—nerds and visionaries turned freedom fighters—teamed up with corporate interests to beat Big&nbsp;...",
+        "formattedUrl": "https://www.amazon.com/Crypto-Rebels-Government.../dp/0140244328",
+        "htmlFormattedUrl": "https://www.amazon.com/<b>Crypto</b>-Rebels-Government.../dp/0140244328",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiScNC2-tEp9jlR8znZmvq7apcrtyTDuwObSTX32mKC2WxucbtYG7f_BCZ&s",
+              "width": "310",
+              "height": "162"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://m.media-amazon.com/images/I/51S7E+956GL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg",
+              "theme-color": "#131921",
+              "og:type": "book",
+              "og:image:width": "1910",
+              "og:title": "Crypto: How the Code Rebels Beat the Government Saving Privacy in the Digital Age",
+              "og:image:height": "1000",
+              "flow-closure-id": "1762664951",
+              "title": "Crypto: How the Code Rebels Beat the Government Saving Privacy in the Digital Age: Levy, Steven: 9780140244328: Amazon.com: Books",
+              "og:description": "If you've ever made a secure purchase with your credit card over the Internet, then you have seen cryptography, or \"crypto\", in action. From   —the author who made \"hackers\" a household word—comes this account of a revolution that is already affecting every citizen in the twenty-first century.   ...",
+              "encrypted-slate-token": "AnYxCZ6EeNkYqr5hnup91r7ybRqBqECB1b1JN+cwk8R5jReeP+om2Ro3K8aH1LKJufwodEdc/Ab0AfXEZXBoMtGxGVWVJztGD1GT9lIO+dgI8OEdpanBwG9tLdOHeDddScgmEJA08y7DIOqWu1mZ0GEkGmeL66Fq/l/9xv5yQ1JD9HT0CcxkiUuFL0WfL7/yre+G2qFzvN826h6ZMDyuR73Ql95IH5EXIhCd4wIjlLGVO9mBSMJ7tpiaTJNK/U9zxSIPqYZYR5vo9Oea4aTBajDawCthx2xbWJ3iUbg3LcaoKQw=",
+              "viewport": "width=device-width, maximum-scale=2, minimum-scale=1, initial-scale=1, shrink-to-fit=no",
+              "og:sitename": "Amazon.com",
+              "og:url": "https://www.amazon.com/dp/0140244328"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://m.media-amazon.com/images/I/51S7E+956GL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Acting Chairman Pham Announces CFTC Crypto Sprint | CFTC",
+        "htmlTitle": "Acting Chairman Pham Announces CFTC <b>Crypto</b> Sprint | CFTC",
+        "link": "https://www.cftc.gov/PressRoom/PressReleases/9104-25",
+        "displayLink": "www.cftc.gov",
+        "snippet": "Aug 1, 2025 ... The CFTC recently completed a public comment period on 24/7 trading and perpetual derivatives, two crypto market innovations. Perpetual ...",
+        "htmlSnippet": "Aug 1, 2025 <b>...</b> The CFTC recently completed a public comment period on 24/7 trading and perpetual derivatives, two <b>crypto</b> market innovations. Perpetual&nbsp;...",
+        "formattedUrl": "https://www.cftc.gov/PressRoom/PressReleases/9104-25",
+        "htmlFormattedUrl": "https://www.cftc.gov/PressRoom/PressReleases/9104-25",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcpjFNFsB3Giou77yHRD2ekCplvpspsLVnWBv1Lt_W7Qig7xPTb4hqM_U&s",
+              "width": "224",
+              "height": "224"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://www.cftc.gov/sites/default/files/2025/06/1750109430/cftc-logo-square.png",
+              "twitter:card": "summary",
+              "twitter:title": "Acting Chairman Pham Announces CFTC Crypto Sprint",
+              "handheldfriendly": "true",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "mobileoptimized": "width",
+              "twitter:image": "https://www.cftc.gov/sites/default/files/2025/09/1756922715/press_release_blue.png",
+              "format-detection": "telephone=no"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.cftc.gov/sites/default/files/2025/06/1750109430/cftc-logo-square.png"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Regulation, Supervision and Oversight of Crypto-Asset Activities and ...",
+        "htmlTitle": "Regulation, Supervision and Oversight of <b>Crypto</b>-Asset Activities and ...",
+        "link": "https://www.fsb.org/2022/10/regulation-supervision-and-oversight-of-crypto-asset-activities-and-markets-consultative-report/",
+        "displayLink": "www.fsb.org",
+        "snippet": "Oct 11, 2022 ... Report sets out the key issues and challenges for the regulation and supervision of crypto-asset activities and markets and outlines the FSB's ...",
+        "htmlSnippet": "Oct 11, 2022 <b>...</b> Report sets out the key issues and challenges for the regulation and supervision of <b>crypto</b>-asset activities and markets and outlines the FSB&#39;s&nbsp;...",
+        "formattedUrl": "https://www.fsb.org/.../regulation-supervision-and-oversight-of-crypto-asset...",
+        "htmlFormattedUrl": "https://www.fsb.org/.../regulation-supervision-and-oversight-of-<b>crypto</b>-asset...",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRWNmUPlXRGm3Au9UtiQi_TnRI-s1pP2qSqR7dz1LdiDwjyEtvPBIaOS32&s",
+              "width": "308",
+              "height": "164"
+            }
+          ],
+          "BreadcrumbList": [
+            {}
+          ],
+          "metatags": [
+            {
+              "fsb_content_type": "114",
+              "og:image": "https://www.fsb.org/uploads/fsb-default-image-2024.jpg",
+              "og:image:width": "1224",
+              "og:type": "article",
+              "article:published_time": "2022-10-11T07:58+00:00",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Regulation, Supervision and Oversight of Crypto-Asset Activities and Markets: Consultative report",
+              "og:site_name": "Financial Stability Board",
+              "fsb_policy_area_slugs": "crypto-assets",
+              "og:title": "Regulation, Supervision and Oversight of Crypto-Asset Activities and Markets: Consultative report",
+              "og:image:height": "653",
+              "fsb_content_type_slugs": "consultations",
+              "og:updated_time": "2022-10-11T07:58+00:00",
+              "og:description": "Recommendations to promote the consistency and comprehensiveness of regulatory, supervisory and oversight approaches to crypto-asset activities and markets and to strengthen international cooperation…",
+              "twitter:image": "https://www.fsb.org/uploads/fsb-default-image-2024.jpg",
+              "url": "https://www.fsb.org/2022/10/regulation-supervision-and-oversight-of-crypto-asset-activities-and-markets-consultative-report/",
+              "twitter:site": "@finstbboard",
+              "article:modified_time": "2022-10-11T07:58+00:00",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "Recommendations to promote the consistency and comprehensiveness of regulatory, supervisory and oversight approaches to crypto-asset activities and markets and to strengthen international cooperation…",
+              "name": "FSB",
+              "position": "1",
+              "og:url": "https://www.fsb.org/2022/10/regulation-supervision-and-oversight-of-crypto-asset-activities-and-markets-consultative-report/",
+              "fsb_policy_area": "27"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.fsb.org/uploads/fsb-default-image-2024.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Agencies Issue Joint Statement on Risk-Management ...",
+        "htmlTitle": "Agencies Issue Joint Statement on Risk-Management ...",
+        "link": "https://www.occ.gov/news-issuances/news-releases/2025/nr-ia-2025-68.html",
+        "displayLink": "www.occ.gov",
+        "snippet": "Jul 14, 2025 ... ... for banks potential risk-management considerations related to holding crypto-assets on their customers' behalf, or crypto-asset safekeeping.",
+        "htmlSnippet": "Jul 14, 2025 <b>...</b> ... for banks potential risk-management considerations related to holding <b>crypto</b>-assets on their customers&#39; behalf, or <b>crypto</b>-asset safekeeping.",
+        "formattedUrl": "https://www.occ.gov/news-issuances/news-releases/.../nr-ia-2025-68.html",
+        "htmlFormattedUrl": "https://www.occ.gov/news-issuances/news-releases/.../nr-ia-2025-68.html",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMt2wm_0Mz4CfAFxTtjtOH14H0pDvHf-oC-VS0jLzv_mbbCvcsaomZGoDb&s",
+              "width": "310",
+              "height": "163"
+            }
+          ],
+          "metatags": [
+            {
+              "rx-contentitemname": "nr-ia-2025-68",
+              "og:image": "https://www.occ.gov/images/c-clamp-images/occ-gov.png",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "OCC.gov",
+              "twitter:url": "https://www.occ.gov/news-issuances/news-releases/2025/nr-ia-2025-68.html",
+              "contenttitle": "Agencies Issue Joint Statement on Risk-Management Considerations For Crypto-Asset Safekeeping",
+              "og:description": "Federal bank regulatory agencies today issued a joint statement in their continued efforts to provide clarity on banks' engagement in crypto-asset-related activities. The statement highlights for banks potential risk-management considerations related to holding crypto-assets on their customers' behalf, or crypto-asset safekeeping.",
+              "occ-site": "OCCGovNewsroom",
+              "twitter:image": "https://www.occ.gov/images/c-clamp-images/occ-gov.png",
+              "risk.category": "none",
+              "wtta.number": "00115432",
+              "twitter:image:alt": "Comptroller of the Currency",
+              "twitter:site": "@USOCC",
+              "subtype": "Interagency",
+              "perc_linkback": "FmRnY2xsZ3gHZHgBZmBnYngGYGRjeBNkZ2BkbWI=",
+              "dc.agency": "Office of the Comptroller of the Currency",
+              "content.owner": "$lb1",
+              "dc.description": "Federal bank regulatory agencies today issued a joint statement in their continued efforts to provide clarity on banks' engagement in crypto-asset-related activities. The statement highlights for banks potential risk-management considerations related to holding crypto-assets on their customers' behalf, or crypto-asset safekeeping.",
+              "og:type": "website",
+              "og:image:alt": "Comptroller of the Currency",
+              "twitter:title": "Agencies Issue Joint Statement on Risk-Management Considerations For Crypto-Asset Safekeeping",
+              "og:title": "Agencies Issue Joint Statement on Risk-Management Considerations For Crypto-Asset Safekeeping",
+              "rx-contenttype": "occNewsRelease",
+              "dc.date": "2025-07-14 13:30:00",
+              "date.posted": "2025-07-14 13:30:00",
+              "release.id": "NR 2025-68",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "twitter:description": "Federal bank regulatory agencies today issued a joint statement in their continued efforts to provide clarity on banks' engagement in crypto-asset-related activities. The statement highlights for banks potential risk-management considerations related to holding crypto-assets on their customers' behalf, or crypto-asset safekeeping.",
+              "children-contentids": "126993",
+              "og:locale": "en_US",
+              "rx-contentid": "126992",
+              "group-contentid": "126992",
+              "dc.subject": "Asset Management; Digital Assets & Tokenization; Financial Technology; Responsible Innovation",
+              "dc.language": "en-US",
+              "wtta.submitter": "Stephanie.Collins",
+              "og:url": "https://www.occ.gov/news-issuances/news-releases/2025/nr-ia-2025-68.html",
+              "format-detection": "telephone=no"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.occ.gov/images/c-clamp-images/occ-gov.png"
+            }
+          ]
+        }
+      }
+    ],
+    "searchInformation": {
+      "searchTime": 0.319647,
+      "formattedSearchTime": "0.32",
+      "totalResults": "399000000",
+      "formattedTotalResults": "399,000,000"
+    },
+    "error": null
+  },
+  "timestamp": "2025-11-12T02:47:54.871Z"
+}

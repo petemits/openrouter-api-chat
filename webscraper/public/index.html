@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Web Scraper</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            color: white;
+        }
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+        .scraper-form {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-bottom: 30px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #555;
+        }
+        input, select {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e1e5e9;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+        input:focus, select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        .checkbox-group {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .checkbox-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .checkbox-item input {
+            width: auto;
+        }
+        .btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        .btn:hover {
+            transform: translateY(-2px);
+        }
+        .btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+        .btn-secondary {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        }
+        .btn-success {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        }
+        .results {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            display: none;
+        }
+        .results.visible {
+            display: block;
+        }
+        .loading {
+            text-align: center;
+            padding: 40px;
+            display: none;
+        }
+        .loading.visible {
+            display: block;
+        }
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .error {
+            background: #fee;
+            color: #c33;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border-left: 4px solid #c33;
+        }
+        .success {
+            background: #efe;
+            color: #363;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border-left: 4px solid #363;
+        }
+        .data-section {
+            margin-bottom: 25px;
+        }
+        .data-section h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+            padding-bottom: 5px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+        .data-item {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+        pre {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            font-size: 14px;
+        }
+        .method-info {
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🌐 Advanced Web Scraper</h1>
+            <p>Ethical web scraping with multiple methods for different websites</p>
+        </div>
+
+        <div class="scraper-form">
+            <div class="form-group">
+                <label for="url">Website URL:</label>
+                <input type="url" id="url" placeholder="https://example.com" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="method">Scraping Method:</label>
+                <select id="method">
+                    <option value="cheerio">Cheerio (Static Content - Fast)</option>
+                    <option value="puppeteer">Puppeteer (Dynamic Content - Medium)</option>
+                    <option value="protected">Enhanced (Protected Sites - Slow but Powerful)</option>
+                </select>
+            </div>
+
+            <div class="method-info" id="methodInfo">
+                <strong>Cheerio:</strong> Fastest method for simple HTML pages<br>
+                <strong>Puppeteer:</strong> For JavaScript-heavy websites<br>
+                <strong>Enhanced:</strong> For protected sites with anti-bot measures
+            </div>
+
+            <div class="form-group">
+                <label>Options:</label>
+                <div class="checkbox-group">
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="useProxy">
+                        <label for="useProxy">Use Proxy Rotation</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="headless" checked>
+                        <label for="headless">Headless Browser</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="checkRobots">
+                        <label for="checkRobots">Check robots.txt</label>
+                    </div>
+                </div>
+            </div>
+
+            <button class="btn" id="scrapeBtn">Start Scraping</button>
+            <button class="btn btn-success" id="testScraperBtn">Test Scraper Functionality</button>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p id="loadingText">Scraping website... This may take a few moments.</p>
+        </div>
+
+        <div class="results" id="results">
+            <!-- Results will be displayed here -->
+        </div>
+    </div>
+
+    <script>
+        // Update method info when selection changes
+        document.getElementById('method').addEventListener('change', function() {
+            const methodInfo = document.getElementById('methodInfo');
+            const method = this.value;
+            
+            if (method === 'cheerio') {
+                methodInfo.innerHTML = '<strong>Cheerio:</strong> Fastest method for simple HTML pages. Uses HTTP requests only.';
+            } else if (method === 'puppeteer') {
+                methodInfo.innerHTML = '<strong>Puppeteer:</strong> For JavaScript-heavy websites. Runs a real browser in background.';
+            } else if (method === 'protected') {
+                methodInfo.innerHTML = '<strong>Enhanced:</strong> For protected sites with anti-bot measures. Uses stealth techniques.';
+            }
+        });
+
+        // Basic scraping
+        document.getElementById('scrapeBtn').addEventListener('click', async () => {
+            const url = document.getElementById('url').value;
+            const method = document.getElementById('method').value;
+            const useProxy = document.getElementById('useProxy').checked;
+            const headless = document.getElementById('headless').checked;
+            const checkRobots = document.getElementById('checkRobots').checked;
+
+            if (!url) {
+                alert('Please enter a URL');
+                return;
+            }
+
+            const btn = document.getElementById('scrapeBtn');
+            const loading = document.getElementById('loading');
+            const loadingText = document.getElementById('loadingText');
+            const results = document.getElementById('results');
+
+            btn.disabled = true;
+            loadingText.textContent = method === 'protected' 
+                ? 'Scraping protected website... This may take 10-30 seconds.' 
+                : 'Scraping website... This may take a few moments.';
+            loading.classList.add('visible');
+            results.classList.remove('visible');
+
+            try {
+                let endpoint, body;
+
+                if (method === 'protected') {
+                    endpoint = '/api/scrape-protected';
+                    body = {
+                        url: url,
+                        options: {
+                            useStealth: true,
+                            waitForSelector: null
+                        }
+                    };
+                } else {
+                    endpoint = '/api/scrape';
+                    body = {
+                        url: url,
+                        method: method,
+                        options: {
+                            dynamic: method === 'puppeteer',
+                            headless: headless,
+                            useProxy: useProxy,
+                            checkRobots: checkRobots
+                        }
+                    };
+                }
+
+                const response = await fetch(endpoint, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(body)
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    displayResults(data.data, data.method || method);
+                } else {
+                    showError(data.error, data.suggestion);
+                }
+
+            } catch (error) {
+                showError('Network error: ' + error.message);
+            } finally {
+                btn.disabled = false;
+                loading.classList.remove('visible');
+            }
+        });
+
+        // Test scraper functionality
+        document.getElementById('testScraperBtn').addEventListener('click', async () => {
+            const btn = document.getElementById('testScraperBtn');
+            const loading = document.getElementById('loading');
+            const loadingText = document.getElementById('loadingText');
+            const results = document.getElementById('results');
+
+            btn.disabled = true;
+            loadingText.textContent = 'Testing scraper functionality with multiple websites...';
+            loading.classList.add('visible');
+            results.classList.remove('visible');
+
+            try {
+                const response = await fetch('/api/test-scraper', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    }
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    displayTestResults(data.results);
+                } else {
+                    showError(data.error);
+                }
+
+            } catch (error) {
+                showError('Network error: ' + error.message);
+            } finally {
+                btn.disabled = false;
+                loading.classList.remove('visible');
+            }
+        });
+
+        function displayResults(data, method) {
+            const results = document.getElementById('results');
+            results.innerHTML = `
+                <div class="success">
+                    <h3>✅ Scraping Successful using ${method} method!</h3>
+                    <p>Successfully extracted data from the website.</p>
+                </div>
+                <div class="data-section">
+                    <h3>Page Information</h3>
+                    <div class="data-item">
+                        <strong>Title:</strong> ${data.title || 'N/A'}<br>
+                        <strong>URL:</strong> ${data.url}<br>
+                        <strong>Description:</strong> ${data.meta?.description || 'N/A'}
+                    </div>
+                </div>
+
+                <div class="data-section">
+                    <h3>Headings</h3>
+                    <div class="data-item">
+                        <strong>H1:</strong> ${data.headings?.h1?.join(', ') || 'None'}<br>
+                        <strong>H2:</strong> ${data.headings?.h2?.join(', ') || 'None'}<br>
+                        <strong>H3:</strong> ${data.headings?.h3?.join(', ') || 'None'}
+                    </div>
+                </div>
+
+                <div class="data-section">
+                    <h3>Links (First 5)</h3>
+                    <pre>${JSON.stringify(data.links?.slice(0, 5), null, 2)}</pre>
+                </div>
+
+                <div class="data-section">
+                    <h3>Content Preview</h3>
+                    <div class="data-item">
+                        ${data.content?.text || data.content || 'No content extracted'}
+                    </div>
+                </div>
+
+                <div class="data-section">
+                    <h3>Raw Data</h3>
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                </div>
+            `;
+            results.classList.add('visible');
+        }
+
+        function displayTestResults(results) {
+            const resultsDiv = document.getElementById('results');
+            let html = '<h2>🧪 Scraper Test Results</h2>';
+            
+            results.forEach(result => {
+                if (result.status === 'success') {
+                    html += `
+                        <div class="success">
+                            <strong>${result.url}</strong><br>
+                            Status: ✅ Success<br>
+                            Title: ${result.title}
+                        </div>
+                    `;
+                } else {
+                    html += `
+                        <div class="error">
+                            <strong>${result.url}</strong><br>
+                            Status: ❌ Failed<br>
+                            Error: ${result.error}
+                        </div>
+                    `;
+                }
+            });
+
+            resultsDiv.innerHTML = html;
+            resultsDiv.classList.add('visible');
+        }
+
+        function showError(message, suggestion = '') {
+            const results = document.getElementById('results');
+            let errorHtml = `
+                <div class="error">
+                    <h3>❌ Scraping Failed</h3>
+                    <p><strong>Error:</strong> ${message}</p>
+            `;
+            
+            if (suggestion) {
+                errorHtml += `<p><strong>Suggestion:</strong> ${suggestion}</p>`;
+            }
+            
+            errorHtml += `</div>`;
+            
+            results.innerHTML = errorHtml;
+            results.classList.add('visible');
+        }
+    </script>
+</body>
+</html>

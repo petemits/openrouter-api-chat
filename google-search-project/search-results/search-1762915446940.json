@@ -1,0 +1,454 @@
+{
+  "query": "news in canada",
+  "results": {
+    "query": "news in canada",
+    "totalResults": "2740000000",
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "Canada - CBC News",
+        "htmlTitle": "<b>Canada</b> - CBC <b>News</b>",
+        "link": "https://www.cbc.ca/news/canada",
+        "displayLink": "www.cbc.ca",
+        "snippet": "Canada Top Stories · Canada's Unknown Soldier in 2025: Where science collides with sacred symbolism · These WW I amputees hiked from Alberta to Ontario on ...",
+        "htmlSnippet": "<b>Canada</b> Top Stories &middot; <b>Canada&#39;s</b> Unknown Soldier in 2025: Where science collides with sacred symbolism &middot; These WW I amputees hiked from Alberta to Ontario on&nbsp;...",
+        "formattedUrl": "https://www.cbc.ca/news/canada",
+        "htmlFormattedUrl": "https://www.cbc.ca/<b>news</b>/<b>canada</b>",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOV5i66iMVmjBIsABWG1xL7a8ElfJwKac-pZbea5eiUxBJ50QefGMz9M&s",
+              "width": "300",
+              "height": "168"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://i.cbc.ca/ais/1.470050,1760127670523/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Canada - CBC News",
+              "og:type": "website",
+              "og:site_name": "CBC",
+              "og:title": "Canada - CBC News",
+              "og:description": "The latest news from across Canada.",
+              "fb:pages": "185669354938012,48363581912,980153248675210,50566954493,262275773829225,630185150356988,82184406949,9021636963,5823419603,325135839870,192209947577094,234303596639900",
+              "twitter:image": "https://i.cbc.ca/ais/1.470050,1760127670523/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+              "vf:url": "https://www.cbc.ca/news/canada",
+              "twitter:player:height": "360",
+              "twitter:site": "@cbc",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "The latest news from across Canada.",
+              "og:locale": "en_US",
+              "twitter:player:width": "640",
+              "og:url": "https://www.cbc.ca/news/canada"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://i.cbc.ca/ais/1.470050,1760127670523/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "US & Canada | Latest News & Updates | BBC News",
+        "htmlTitle": "US &amp; <b>Canada</b> | Latest <b>News</b> &amp; Updates | BBC <b>News</b>",
+        "link": "https://www.bbc.com/news/us-canada",
+        "displayLink": "www.bbc.com",
+        "snippet": "Get all the latest news, live updates and content about the US & Canada from across the BBC.",
+        "htmlSnippet": "Get all the latest <b>news</b>, live updates and content about the US &amp; <b>Canada</b> from across the BBC.",
+        "formattedUrl": "https://www.bbc.com/news/us-canada",
+        "htmlFormattedUrl": "https://www.bbc.com/<b>news</b>/us-<b>canada</b>",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6dSyzDMpBubJdmSGYAV0umyVRFFuvVBbXwqPMIBSsW7p0UJiK0UARkhsN&s",
+              "width": "300",
+              "height": "168"
+            }
+          ],
+          "metatags": [
+            {
+              "msapplication-tilecolor": "#da532c",
+              "apple-itunes-app": "app-id=364147881, app-argument=https://www.bbc.com/news/us-canada",
+              "twitter:title": "US & Canada | Latest News & Updates | BBC News",
+              "theme-color": "#ffffff",
+              "al:ios:app_name": "BBC: World News & Stories",
+              "cxenseparse:pageclass": "frontpage",
+              "og:title": "US & Canada | Latest News & Updates | BBC News",
+              "al:android:package": "bbc.mobile.news.ww",
+              "al:ios:url": "bbcx://news/us-canada",
+              "al:web:url": "https://bbc.com/news/us-canada",
+              "og:description": "Get all the latest news, live updates and content about the US & Canada from across the BBC.",
+              "version": "web-2.33.2-3",
+              "al:ios:app_store_id": "364147881",
+              "al:android:url": "bbcx://news/us-canada",
+              "page.subsection": "Us-canada",
+              "next-head-count": "33",
+              "viewport": "width=device-width",
+              "twitter:description": "Get all the latest news, live updates and content about the US & Canada from across the BBC.",
+              "page.section": "News",
+              "al:android:app_name": "BBC: World News & Stories"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://ichef.bbci.co.uk/news/480/cpsprodpb/1df8/live/dcaaf450-ba95-11f0-ba75-093eca1ac29b.jpg.webp"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Google News",
+        "htmlTitle": "Google <b>News</b>",
+        "link": "https://news.google.com/home?hl=en-CA&gl=CA&ceid=CA%3Aen",
+        "displayLink": "news.google.com",
+        "snippet": "Picks for you · The Globe and Mail. Justin Trudeau is cringier than ever in his new relationship with Katy Perry · Inside Halton. Are Canadian locations affected ...",
+        "htmlSnippet": "Picks for you &middot; The Globe and Mail. Justin Trudeau is cringier than ever in his new relationship with Katy Perry &middot; Inside Halton. Are <b>Canadian</b> locations affected&nbsp;...",
+        "formattedUrl": "https://news.google.com/home?hl=en-CA&gl=CA&ceid=CA%3Aen",
+        "htmlFormattedUrl": "https://<b>news</b>.google.com/home?hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2AE_mHW4FspGNXIbbrBE3be1wYIw5yEyXzy6XMaNUPO29gcihNy7DC0xD&s",
+              "width": "225",
+              "height": "225"
+            }
+          ],
+          "metatags": [
+            {
+              "application-name": "News",
+              "apple-itunes-app": "app-id=459182288",
+              "og:image": "https://lh6.googleusercontent.com/proxy/3NclTnCvFtcRLZUDIB15z_AnMW0TOCYyuSQxf8PD3n_uKf5wb_jB9ovM2rESJFgJXeQjbH19BW0Bggs-Pof0x-S7g_8XEpSe4r-3vJsYRZlXvWMNrU3QCogkts8FptEMyu4aE_huQMLTogkw4oY6dfl1plHqTM3WKkypYwMA2TcaAWI=rj-c-w300-h300-l95-c0x34a853",
+              "theme-color": "white",
+              "og:type": "website",
+              "twitter:card": "summary",
+              "twitter:title": "Home page - Google News",
+              "og:site_name": "Google News",
+              "apple-mobile-web-app-title": "News",
+              "og:title": "Home page - Google News",
+              "title": "Home page - Google News",
+              "og:description": "Read full articles, watch videos, browse thousands of titles and more on the \"Home page\" topic with Google News.",
+              "twitter:image": "https://lh6.googleusercontent.com/proxy/3NclTnCvFtcRLZUDIB15z_AnMW0TOCYyuSQxf8PD3n_uKf5wb_jB9ovM2rESJFgJXeQjbH19BW0Bggs-Pof0x-S7g_8XEpSe4r-3vJsYRZlXvWMNrU3QCogkts8FptEMyu4aE_huQMLTogkw4oY6dfl1plHqTM3WKkypYwMA2TcaAWI=rj-c-w300-h300-l95-c0x34a853",
+              "referrer": "origin",
+              "apple-mobile-web-app-status-bar-style": "black",
+              "msapplication-tap-highlight": "no",
+              "viewport": "width=device-width,initial-scale=1,minimal-ui",
+              "apple-mobile-web-app-capable": "yes",
+              "twitter:description": "Read full articles, watch videos, browse thousands of titles and more on the \"Home page\" topic with Google News.",
+              "mobile-web-app-capable": "yes",
+              "og:locale": "en_CA",
+              "og:url": "https://news.google.com/topics/CAAqHAgKIhZDQkFTQ2dvSUwyMHZNRE5uWkRVb0FBUAE"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://lh6.googleusercontent.com/proxy/3NclTnCvFtcRLZUDIB15z_AnMW0TOCYyuSQxf8PD3n_uKf5wb_jB9ovM2rESJFgJXeQjbH19BW0Bggs-Pof0x-S7g_8XEpSe4r-3vJsYRZlXvWMNrU3QCogkts8FptEMyu4aE_huQMLTogkw4oY6dfl1plHqTM3WKkypYwMA2TcaAWI=rj-c-w300-h300-l95-c0x34a853"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "CTV News – Breaking News and Video, Canada News Today",
+        "htmlTitle": "CTV <b>News</b> – Breaking <b>News</b> and Video, <b>Canada News</b> Today",
+        "link": "https://www.ctvnews.ca/",
+        "displayLink": "www.ctvnews.ca",
+        "snippet": "Remembrance Day live updates: Carney lays wreath at war memorial · Environment Canada responds to getting Montreal's snow forecast wrong · Affected by U.S. ...",
+        "htmlSnippet": "Remembrance Day live updates: Carney lays wreath at war memorial &middot; Environment <b>Canada</b> responds to getting Montreal&#39;s snow forecast wrong &middot; Affected by U.S.&nbsp;...",
+        "formattedUrl": "https://www.ctvnews.ca/",
+        "htmlFormattedUrl": "https://www.ctv<b>news</b>.ca/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBWRfxHwzvkM7ncCZ-eSjYvBHcyOohNbACERP3OJPasmF-anaVwIEr6rE&s",
+              "width": "300",
+              "height": "168"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Fbellmediainc%2F1730923620854.svg?auth=f1cf09be30d79f3fc423ee797e5d40ba62b742439525848fa3215fac178a9980&width=1200",
+              "twitter:title": "CTV News – Breaking News and Video, Canada News Today",
+              "og:image:alt": "CTVNews",
+              "og:type": "website",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "CTV News",
+              "og:title": "CTV News – Breaking News and Video, Canada News Today",
+              "fb:pages": "265325440237679,525693370806473",
+              "twitter:image": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Fbellmediainc%2F1730923620854.svg?auth=f1cf09be30d79f3fc423ee797e5d40ba62b742439525848fa3215fac178a9980&width=1200",
+              "twitter:image:alt": "CTVNews",
+              "twitter:site": "@ctvnews",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:url": "https://www.ctvnews.ca"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Fbellmediainc%2F1730923620854.svg?auth=f1cf09be30d79f3fc423ee797e5d40ba62b742439525848fa3215fac178a9980&width=1200"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Canada News | National Headlines - Breaking National News",
+        "htmlTitle": "<b>Canada News</b> | National Headlines - Breaking National <b>News</b>",
+        "link": "https://globalnews.ca/canada/",
+        "displayLink": "globalnews.ca",
+        "snippet": "Canada · Click to play video: 'Carney says U.S. trade policy is 'radically different' · B.C. ostrich cull started a 'new kind of war' after birds gunned down, ...",
+        "htmlSnippet": "<b>Canada</b> &middot; Click to play video: &#39;Carney says U.S. trade policy is &#39;radically different&#39; &middot; B.C. ostrich cull started a &#39;new kind of war&#39; after birds gunned down,&nbsp;...",
+        "formattedUrl": "https://globalnews.ca/canada/",
+        "htmlFormattedUrl": "https://global<b>news</b>.ca/<b>canada</b>/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rMtRV_j91peAKUDSNqerOe_xbXOXVIaqtjFCefnDeBvdzLSc7772KMM&s",
+              "width": "275",
+              "height": "183"
+            }
+          ],
+          "metatags": [
+            {
+              "theme-color": "#231F20",
+              "twitter:title": "Canada News | National Headlines - Breaking National News",
+              "og:site_name": "Global News",
+              "twitter:site": "@globalnews",
+              "viewport": "width=device-width, initial-scale=1.0",
+              "twitter:description": "Global News National -  breaking national news & current national news headlines; national money news and business news on GlobalNews.ca",
+              "og:title": "Canada News | National Headlines - Breaking National News",
+              "title": "Canada News | National Headlines - Breaking National News",
+              "og:description": "Global News National -  breaking national news & current national news headlines; national money news and business news on GlobalNews.ca",
+              "fb:pages": "114019975312443"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://globalnews.ca/wp-content/uploads/2025/11/Carney-buy-canadian.jpg?quality=65&strip=all&w=720"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Canada news - breaking stories, video, analysis and opinion | CNN",
+        "htmlTitle": "<b>Canada news</b> - breaking stories, video, analysis and opinion | CNN",
+        "link": "https://www.cnn.com/world/americas/canada",
+        "displayLink": "www.cnn.com",
+        "snippet": "Business · Trump says he's increasing tariffs on Canada by 10% after Ontario's Reagan ad · What the Ronald Reagan ad that got Trump so angry was really all ...",
+        "htmlSnippet": "Business &middot; Trump says he&#39;s increasing tariffs on <b>Canada</b> by 10% after Ontario&#39;s Reagan ad &middot; What the Ronald Reagan ad that got Trump so angry was really all&nbsp;...",
+        "formattedUrl": "https://www.cnn.com/world/americas/canada",
+        "htmlFormattedUrl": "https://www.cnn.com/world/americas/<b>canada</b>",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5cT0GPXj1CELf6dQguE0OoUsBykYyViKZ04bcqbym_qrcSipW8iW-TiA&s",
+              "width": "300",
+              "height": "168"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+              "twitter:title": "Canada news - breaking stories, video, analysis and opinion | CNN",
+              "og:type": "website",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "CNN",
+              "og:title": "Canada news - breaking stories, video, analysis and opinion | CNN",
+              "meta-section": "world",
+              "type": "section",
+              "og:description": "View the latest Canada news and videos, including politics, business and travel headlines.",
+              "twitter:image": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+              "article:publisher": "https://www.facebook.com/CNN",
+              "fb:app_id": "80401312489",
+              "twitter:site": "@cnn",
+              "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+              "twitter:description": "View the latest Canada news and videos, including politics, business and travel headlines.",
+              "template_type": "landing_section",
+              "theme": "world",
+              "og:url": "https://www.cnn.com/world/americas/canada"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "News - Canada.ca",
+        "htmlTitle": "<b>News</b> - <b>Canada</b>.ca",
+        "link": "https://www.canada.ca/en/news.html",
+        "displayLink": "www.canada.ca",
+        "snippet": "The Honourable Maninder Sidhu, Minister of International Trade, today announced that he will travel to New Delhi, India, from November 12 to 13, 2025, to find ...",
+        "htmlSnippet": "The Honourable Maninder Sidhu, Minister of International Trade, today announced that he will travel to New Delhi, India, from November 12 to 13, 2025, to find&nbsp;...",
+        "formattedUrl": "https://www.canada.ca/en/news.html",
+        "htmlFormattedUrl": "https://www.<b>canada</b>.ca/en/<b>news</b>.html",
+        "pagemap": {
+          "WebPage": [
+            {
+              "breadcrumb": "You are here: Canada.ca",
+              "alternate": "Switch to basic HTML version"
+            }
+          ],
+          "metatags": [
+            {
+              "areaserved": "Canada",
+              "dcterms.language": "eng",
+              "author": "Service Canada",
+              "dcterms.spatial": "Canada",
+              "dcterms.type": "navigation page - search page",
+              "dcterms.title": "News",
+              "dcterms.creator": "Service Canada",
+              "dcterms.description": "News Page",
+              "dcterms.issued": "2016-08-31",
+              "fb:pages": "378967748836213, 160339344047502, 184605778338568, 237796269600506, 10860597051, 14498271095, 209857686718, 160504807323251, 111156792247197, 113429762015861, 502566449790031, 312292485564363, 1471831713076413, 22724568071, 17294463927, 1442463402719857, 247990812241506, 730097607131117, 1142481292546228, 1765602380419601, 131514060764735, 307780276294187, 427238637642566, 525934210910141, 1016214671785090, 192657607776229, 586856208161152, 1146080748799944, 408143085978521, 490290084411688, 163828286987751, 565688503775086, 460123390028, 318424514044, 632493333805962, 370233926766473, 173004244677, 1562729973959056, 362400293941960, 769857139754987, 167891083224996, 466882737009651, 126404198009505, 135409166525475, 664638680273646, 169011506491295, 217171551640146, 182842831756930, 1464645710444681, 218822426028, 218740415905, 123326971154939, 125058490980757, 1062292210514762, 1768389106741505, 310939332270090, 285960408117397, 985916134909087, 655533774808209, 1522633664630497, 686814348097821, 2307986770",
+              "dcterms.modified": "2025-11-07",
+              "viewport": "width=device-width,initial-scale=1",
+              "name": "Government of Canada",
+              "dcterms.identifier": "Service_Canada"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "The Globe and Mail: Canadian, World, Politics and Business News ...",
+        "htmlTitle": "The Globe and Mail: <b>Canadian</b>, World, Politics and Business <b>News</b> ...",
+        "link": "https://www.theglobeandmail.com/",
+        "displayLink": "www.theglobeandmail.com",
+        "snippet": "More sections · Explore the stories shaping our world with reporters, experts, and the people at the centre of the news. · Financial advice for 20-40 somethings ...",
+        "htmlSnippet": "More sections &middot; Explore the stories shaping our world with reporters, experts, and the people at the centre of the <b>news</b>. &middot; Financial advice for 20-40 somethings&nbsp;...",
+        "formattedUrl": "https://www.theglobeandmail.com/",
+        "htmlFormattedUrl": "https://www.theglobeandmail.com/",
+        "pagemap": {
+          "metatags": [
+            {
+              "apple-itunes-app": "app-id=429228415,app-argument=https://www.theglobeandmail.com/homepage/,affiliate-data=ct=smart_banner&pt=456993",
+              "msapplication-config": "https://www.theglobeandmail.com/pf/resources/assets/meta/browserconfig.xml?d=789",
+              "twitter:card": "summary",
+              "theme-color": "var(--color-red-500)",
+              "og:site_name": "The Globe and Mail",
+              "twitter:url": "https://www.theglobeandmail.com/homepage/",
+              "apple-mobile-web-app-title": "The Globe and Mail",
+              "arc-id": "/homepage",
+              "msapplication-tileimage": "/pf/resources/assets/meta/mstile-144x144.png?d=789",
+              "og:description": "The Globe and Mail offers the most authoritative news in Canada, featuring national and international news",
+              "twitter:image": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=789",
+              "twitter:image:alt": "The Globe and Mail",
+              "twitter:site": "@globeandmail",
+              "application-name": "The Globe and Mail",
+              "msapplication-tilecolor": "var(--color-red-500)",
+              "og:type": "website",
+              "twitter:title": "The Globe and Mail: Canadian, World, Politics and Business News & Analysis",
+              "og:title": "The Globe and Mail: Canadian, World, Politics and Business News & Analysis",
+              "msapplication-navbutton-color": "var(--color-red-500)",
+              "fb:app_id": "392592514262068",
+              "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+              "twitter:description": "The Globe and Mail offers the most authoritative news in Canada, featuring national and international news",
+              "og:locale": "en_GB",
+              "og:url": "https://www.theglobeandmail.com/homepage/",
+              "article:opinion": "false"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "The Online News Act - Canada.ca",
+        "htmlTitle": "The Online <b>News</b> Act - <b>Canada</b>.ca",
+        "link": "https://www.canada.ca/en/canadian-heritage/services/online-news.html",
+        "displayLink": "www.canada.ca",
+        "snippet": "Apr 15, 2024 ... The Online News Act aims to ensure that dominant platforms compensate news businesses when their content is made available on their services.",
+        "htmlSnippet": "Apr 15, 2024 <b>...</b> The Online <b>News</b> Act aims to ensure that dominant platforms compensate <b>news</b> businesses when their content is made available on their services.",
+        "formattedUrl": "https://www.canada.ca/en/canadian-heritage/services/online-news.html",
+        "htmlFormattedUrl": "https://www.<b>canada</b>.ca/en/canadian-heritage/services/online-<b>news</b>.html",
+        "pagemap": {
+          "WebPage": [
+            {
+              "breadcrumb": "You are here: Canada.ca Culture, history and sport Arts and media",
+              "alternate": "Switch to basic HTML version"
+            }
+          ],
+          "metatags": [
+            {
+              "areaserved": "Canada",
+              "dcterms.language": "eng",
+              "author": "Canadian Heritage",
+              "dcterms.spatial": "Canada",
+              "dcterms.title": "The Online News Act",
+              "dcterms.creator": "Canadian Heritage",
+              "dcterms.description": "Digital platforms have come to play an integral role in Canada’s news ecosystem, shifting the way Canadians access news content that is vital to democracy. They can play an important role in supporting the production of trusted news and information. Learn about the Online News Act, a proposed legislation that will play a role in the sustainability of the Canadian news ecosystem.",
+              "dcterms.issued": "2022-04-05",
+              "fb:pages": "378967748836213, 160339344047502, 184605778338568, 237796269600506, 10860597051, 14498271095, 209857686718, 160504807323251, 111156792247197, 113429762015861, 502566449790031, 312292485564363, 1471831713076413, 22724568071, 17294463927, 1442463402719857, 247990812241506, 730097607131117, 1142481292546228, 1765602380419601, 131514060764735, 307780276294187, 427238637642566, 525934210910141, 1016214671785090, 192657607776229, 586856208161152, 1146080748799944, 408143085978521, 490290084411688, 163828286987751, 565688503775086, 460123390028, 318424514044, 632493333805962, 370233926766473, 173004244677, 1562729973959056, 362400293941960, 769857139754987, 167891083224996, 466882737009651, 126404198009505, 135409166525475, 664638680273646, 169011506491295, 217171551640146, 182842831756930, 1464645710444681, 218822426028, 218740415905, 123326971154939, 125058490980757, 1062292210514762, 1768389106741505, 310939332270090, 285960408117397, 985916134909087, 655533774808209, 1522633664630497, 686814348097821, 2307986770",
+              "dcterms.modified": "2024-04-15",
+              "viewport": "width=device-width,initial-scale=1",
+              "name": "Government of Canada",
+              "dcterms.identifier": "Canadian_Heritage"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Yahoo News Canada: News & Analysis",
+        "htmlTitle": "Yahoo <b>News Canada</b>: News &amp; Analysis",
+        "link": "https://ca.news.yahoo.com/",
+        "displayLink": "ca.news.yahoo.com",
+        "snippet": "News. Today In History 1112 · News. Canadians pause to reflect on Remembrance Day · News. Letters: I'm 96. · News. Durham Regional Police Service ran a ' ...",
+        "htmlSnippet": "<b>News</b>. Today In History 1112 &middot; <b>News</b>. <b>Canadians</b> pause to reflect on Remembrance Day &middot; <b>News</b>. Letters: I&#39;m 96. &middot; <b>News</b>. Durham Regional Police Service ran a &#39;&nbsp;...",
+        "formattedUrl": "https://ca.news.yahoo.com/",
+        "htmlFormattedUrl": "https://ca.<b>news</b>.yahoo.com/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoCgoe2XIWK1wvQQnCXpvwGieiET3EZ89hNdiU356o8MB7kfJHy8vE4EBf&s",
+              "width": "225",
+              "height": "225"
+            }
+          ],
+          "metatags": [
+            {
+              "apple-itunes-app": "app-id=304158842",
+              "og:image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+              "og:type": "website",
+              "twitter:card": "summary",
+              "twitter:title": "News & Analysis | Yahoo News Canada",
+              "msvalidate.01": "A9862C0E6E1BE95BCE0BF3D0298FD58B",
+              "conf:cjs:consent-flow": "yguce",
+              "og:title": "News & Analysis | Yahoo News Canada",
+              "msapplication-tileimage": "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_w_bestfit_frontpage.png",
+              "fb:pages": "338028696036",
+              "og:description": "Breaking news and analysis from Canada and around the world for politics, racial injustice, weather, lotto, science and more.",
+              "twitter:dnt": "on",
+              "twitter:image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+              "fb:app_id": "458584288257241",
+              "conf:cjs:locale": "en-CA",
+              "oath:guce:consent-host": "guce.yahoo.com",
+              "twitter:site": "@YahooCanada",
+              "viewport": "width=device-width, initial-scale=1",
+              "twitter:description": "Breaking news and analysis from Canada and around the world for politics, racial injustice, weather, lotto, science and more."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png"
+            }
+          ]
+        }
+      }
+    ],
+    "searchInformation": {
+      "searchTime": 0.341879,
+      "formattedSearchTime": "0.34",
+      "totalResults": "2740000000",
+      "formattedTotalResults": "2,740,000,000"
+    },
+    "error": null
+  },
+  "timestamp": "2025-11-12T02:44:06.940Z"
+}

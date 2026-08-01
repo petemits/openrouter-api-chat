@@ -1,0 +1,16 @@
+{
+  "name": "project-1762959548445",
+  "version": "1.0.0",
+  "description": "create a macro to automaticaaly create AI AND AUYTOPOST DAILy social media poast autopost youtube instagram tiktok fadcebook linkedin at ascheduled time",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "generated",
+    "ai-project"
+  ],
+  "author": "AI Project Generator",
+  "license": "MIT"
+}
